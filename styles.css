@@ -150,16 +150,16 @@ main {
 .badge {
   display: inline-flex;
   align-items: center;
-  padding: 4px 12px;
-  border-radius: 100px;
-  background: var(--accent);
-  color: #fff;
+  gap: 4px;
+  padding: 2px 4px;
+  border-radius: 4px;
+  color: var(--accent);
   font-size: 0.85rem;
   font-weight: 500;
 }
 
 [data-theme="light"] .badge {
-  color: var(--bg);
+  color: var(--accent);
 }
 
 /* ─── Flag ─── */
