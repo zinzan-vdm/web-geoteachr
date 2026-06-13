@@ -1,62 +1,1350 @@
 [
   {
-    "countries": ["United States"],
-    "tags": ["road-lines", "gen-2", "driving-side"],
-    "image": "https://images.unsplash.com/photo-1549490349-8643362247b5?w=400",
-    "fact": "USA has <strong>solid yellow</strong> center lines and <strong>white</strong> edge lines on the right. Road lines are always yellow on the left edge, white on the right edge of the road."
+    "countries": [
+      "Albania"
+    ],
+    "tags": [
+      "sky-rift",
+      "coverage",
+      "europe",
+      "balkans"
+    ],
+    "image": "",
+    "fact": "**Sky rift** — holes in the sky appearing on ~half of images"
   },
   {
-    "countries": ["United Kingdom", "Ireland"],
-    "tags": ["bollards", "gen-2", "road-infrastructure"],
-    "image": "https://images.unsplash.com/photo-1518156677180-95a2893d3e9f?w=400",
-    "fact": "UK bollards are <strong>round</strong> with reflective bands — white at the top, <strong>red</strong> below. Ireland bollards are similar but have <strong>yellow</strong> reflective bands instead of red."
+    "countries": [
+      "Andorra"
+    ],
+    "tags": [
+      "architecture",
+      "stone",
+      "brick",
+      "europe",
+      "pyrenees"
+    ],
+    "image": "",
+    "fact": "**Andorran brick** — dark stone with orange-brown flecks, Pyrenees architecture"
   },
   {
-    "countries": ["France"],
-    "tags": ["bollards", "gen-2", "road-infrastructure"],
-    "image": "https://images.unsplash.com/photo-1504622970437-4a70b0503c1a?w=400",
-    "fact": "French bollards are <strong>square/concrete</strong> with a flat top, white body, and a single <strong>orange</strong> reflective stripe near the top — unmistakable once you know it."
+    "countries": [
+      "Argentina"
+    ],
+    "tags": [
+      "license-plate",
+      "black-dot",
+      "south-america",
+      "plates"
+    ],
+    "image": "",
+    "fact": "**Black dot license plate** — short black plate with black dot in the middle from white writing on either side"
   },
   {
-    "countries": ["Finland"],
-    "tags": ["pole", "gen-2", "infrastructure"],
-    "image": "https://images.unsplash.com/photo-1531152499509-1f944a458ac1?w=400",
-    "fact": "Finland has distinctive <strong>two-arm power poles</strong> (&#39;Finnish Y-poles&#39;) where the crossbars form a subtle V or Y shape. Ground-mounted transformers on concrete bases are also common."
+    "countries": [
+      "Australia"
+    ],
+    "tags": [
+      "bollards",
+      "red-rectangle",
+      "oceania",
+      "australia"
+    ],
+    "image": "",
+    "fact": "**Red rectangle bollard** — red rectangle within a white rectangle"
   },
   {
-    "countries": ["Sweden"],
-    "tags": ["pole", "gen-2", "infrastructure"],
-    "image": "https://images.unsplash.com/photo-1519138130-85a949fdcb4f?w=400",
-    "fact": "Swedish utility poles often have <strong>three crossbars</strong> in a stepped configuration. Look for the distinctive <strong>trunk-mounted fuse boxes</strong> and insulators on angled brackets."
+    "countries": [
+      "Austria"
+    ],
+    "tags": [
+      "bollards",
+      "reflector",
+      "europe",
+      "central-europe"
+    ],
+    "image": "",
+    "fact": "**Dark red reflector bollard** — shared with other countries, but the dark red reflector (not bright red) distinguishes it"
   },
   {
-    "countries": ["Australia", "New Zealand"],
-    "tags": ["sun", "hemisphere", "vegetation", "gen-3"],
-    "image": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=400",
-    "fact": "In the <strong>southern hemisphere</strong>, the sun is in the <strong>northern</strong> part of the sky. Since Google car covers face north/south, <strong>Australia & NZ coverage shows the sun to the north</strong> — opposite of what you&#39;d expect in Europe/USA."
+    "countries": [
+      "Bangladesh"
+    ],
+    "tags": [
+      "language",
+      "bengali",
+      "asia",
+      "south-asia",
+      "script"
+    ],
+    "image": "",
+    "fact": "**Bengali script** — triangular-shaped letter distinctive from Hindi"
   },
   {
-    "countries": ["Germany", "Austria", "Switzerland"],
-    "tags": ["signs", "language", "gen-2", "road-infrastructure"],
-    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=400",
-    "fact": "German-speaking countries use <strong>white-on-blue</strong> highway signs (Autobahn) with serif fonts. Town signs are yellow with black text. Look for <em>Ausfahrt</em> (exit), <em>Straße</em> (street), and the distinctive <strong>Bundesstraße yellow signs</strong> with black numbers."
+    "countries": [
+      "Belgium"
+    ],
+    "tags": [
+      "license-plate",
+      "red-text",
+      "plates",
+      "europe",
+      "western-europe"
+    ],
+    "image": "",
+    "fact": "**Red text on license plates** — text written in red instead of black"
   },
   {
-    "countries": ["Italy"],
-    "tags": ["architecture", "signs", "gen-2"],
-    "image": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?w=400",
-    "fact": "Italian road signs feature <strong>green backgrounds</strong> for motorways and <strong>blue for local roads</strong>. Town name signs have a distinctive <strong>red border with two towers</strong> icon. Architecture is a huge clue — terracotta roofs, shuttered windows, narrow medieval streets."
+    "countries": [
+      "Bhutan"
+    ],
+    "tags": [
+      "road",
+      "concrete-blocks",
+      "asia",
+      "himalayas",
+      "landscape"
+    ],
+    "image": "",
+    "fact": "**Concrete blocks** on the side of the road"
   },
   {
-    "countries": ["Japan"],
-    "tags": ["license-plate", "signs", "gen-2", "language"],
-    "image": "https://images.unsplash.com/photo-1528164344705-47542687000d?w=400",
-    "fact": "Japanese license plates are <strong>white with green text</strong> (standard) or <strong>yellow with green text</strong> (kei cars). The plate format shows the city/region name in <strong>kanji</strong> at the top. Signs use <strong>blue/white</strong> with both Japanese characters and Romanized text."
+    "countries": [
+      "Bolivia"
+    ],
+    "tags": [
+      "poles",
+      "wooden-poles",
+      "south-america",
+      "squiggly-poles",
+      "landscape"
+    ],
+    "image": "",
+    "fact": "**Squiggly wooden poles** — wavy/swervy wooden poles, especially in the greener eastern region"
   },
   {
-    "countries": ["South Africa", "Lesotho", "Eswatini"],
-    "tags": ["dry-landscape", "vegetation", "gen-2", "license-plate"],
-    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=400",
-    "fact": "South Africa has <strong>red/white bollard reflectors</strong> (like the UK) but drives on the <strong>left</strong>. The landscape is distinctive — flat-topped <em>table mountains</em>, dry savanna, and aloe plants. License plates are <strong>white/yellow</strong> (front/rear) with provincial codes like <strong>GP</strong> (Gauteng), <strong>WC</strong> (Western Cape)."
+    "countries": [
+      "Bosnia and Herzegovina"
+    ],
+    "tags": [
+      "coverage",
+      "small-cam",
+      "crap-cam",
+      "europe",
+      "balkans"
+    ],
+    "image": "",
+    "fact": "**Small cam** — huge blur, low camera quality on most coverage"
+  },
+  {
+    "countries": [
+      "Botswana"
+    ],
+    "tags": [
+      "landscape",
+      "coverage",
+      "flat",
+      "dry",
+      "africa",
+      "gen-3"
+    ],
+    "image": "",
+    "fact": "**Flat dry landscape** and **generation 3 coverage** (2012 copyright)"
+  },
+  {
+    "countries": [
+      "Brazil"
+    ],
+    "tags": [
+      "red-soil",
+      "landscape",
+      "south-america",
+      "soil"
+    ],
+    "image": "",
+    "fact": "**Red soil** — famously red dirt"
+  },
+  {
+    "countries": [
+      "Bulgaria"
+    ],
+    "tags": [
+      "architecture",
+      "roof",
+      "tiles",
+      "europe",
+      "balkans"
+    ],
+    "image": "",
+    "fact": "**Rickety tiled roof** — poorly cemented, worn-looking tiles"
+  },
+  {
+    "countries": [
+      "Cambodia"
+    ],
+    "tags": [
+      "crap-cam",
+      "coverage",
+      "asia",
+      "southeast-asia"
+    ],
+    "image": "",
+    "fact": "**Crap cam** — very low quality camera"
+  },
+  {
+    "countries": [
+      "Canada"
+    ],
+    "tags": [
+      "signs",
+      "maximum",
+      "speed-limit",
+      "north-america",
+      "language"
+    ],
+    "image": "",
+    "fact": "**Maximum sign** — uses 'Maximum' instead of 'Speed Limit' due to bilingual French"
+  },
+  {
+    "countries": [
+      "Chile"
+    ],
+    "tags": [
+      "road-lines",
+      "white-lines",
+      "south-america"
+    ],
+    "image": "",
+    "fact": "**All white road lines** — uncommon in the Americas"
+  },
+  {
+    "countries": [
+      "Colombia"
+    ],
+    "tags": [
+      "license-plate",
+      "yellow-plate",
+      "plates",
+      "south-america"
+    ],
+    "image": "",
+    "fact": "**Yellow license plates** — also the Colombian cross"
+  },
+  {
+    "countries": [
+      "Costa Rica"
+    ],
+    "tags": [
+      "google-car",
+      "coverage",
+      "truck",
+      "north-america",
+      "central-america"
+    ],
+    "image": "",
+    "fact": "**Google car truck blur** — almost 100% of frames have the truck or truck blur"
+  },
+  {
+    "countries": [
+      "Croatia"
+    ],
+    "tags": [
+      "bollards",
+      "europe",
+      "balkans"
+    ],
+    "image": "",
+    "fact": "**Bollard** — shorter than the similar-looking Hungarian one"
+  },
+  {
+    "countries": [
+      "Cyprus"
+    ],
+    "tags": [
+      "driving-side",
+      "left-side",
+      "europe",
+      "mediterranean"
+    ],
+    "image": "",
+    "fact": "**Left-hand driving** — looks like Greece but drives on the left"
+  },
+  {
+    "countries": [
+      "Czechia"
+    ],
+    "tags": [
+      "bollards",
+      "europe",
+      "central-europe"
+    ],
+    "image": "",
+    "fact": "**Bollard** — shared with Slovakia"
+  },
+  {
+    "countries": [
+      "Denmark"
+    ],
+    "tags": [
+      "signs",
+      "metal-border",
+      "europe",
+      "nordics",
+      "road"
+    ],
+    "image": "",
+    "fact": "**Metal-bordered signs on the ground** — signs with a metal border that sit on the ground"
+  },
+  {
+    "countries": [
+      "Dominican Republic"
+    ],
+    "tags": [
+      "google-car",
+      "car-bars",
+      "coverage",
+      "north-america",
+      "caribbean"
+    ],
+    "image": "",
+    "fact": "**Black filled-in Google car bars** — generation 3 bars fully blacked out"
+  },
+  {
+    "countries": [
+      "Ecuador"
+    ],
+    "tags": [
+      "google-car",
+      "truck",
+      "coverage",
+      "south-america"
+    ],
+    "image": "",
+    "fact": "**Google car truck** — blurred truck visible in most frames"
+  },
+  {
+    "countries": [
+      "Estonia"
+    ],
+    "tags": [
+      "flora",
+      "white-flowers",
+      "europe",
+      "baltics",
+      "landscape"
+    ],
+    "image": "",
+    "fact": "**White flowers** — very common in the landscape"
+  },
+  {
+    "countries": [
+      "Eswatini"
+    ],
+    "tags": [
+      "flora",
+      "golden-grass",
+      "africa",
+      "landscape",
+      "gen-3"
+    ],
+    "image": "",
+    "fact": "**Golden grass** — very common in generation 3 coverage"
+  },
+  {
+    "countries": [
+      "Finland"
+    ],
+    "tags": [
+      "language",
+      "signs",
+      "tie",
+      "europe",
+      "nordics"
+    ],
+    "image": "",
+    "fact": "**Finnish language** — 'Tie' means road, distinctive language"
+  },
+  {
+    "countries": [
+      "France"
+    ],
+    "tags": [
+      "bollards",
+      "europe",
+      "western-europe"
+    ],
+    "image": "",
+    "fact": "**French bollard** — iconic design, one of the most famous geoguessr bollards"
+  },
+  {
+    "countries": [
+      "Germany"
+    ],
+    "tags": [
+      "bollards",
+      "europe",
+      "central-europe",
+      "reflector"
+    ],
+    "image": "",
+    "fact": "**German bollard** — two pins at top and bottom of reflector (Luxembourg has three)"
+  },
+  {
+    "countries": [
+      "Ghana"
+    ],
+    "tags": [
+      "google-car",
+      "black-tape",
+      "africa",
+      "coverage"
+    ],
+    "image": "",
+    "fact": "**Black tape** on the Google car — iconic meta"
+  },
+  {
+    "countries": [
+      "Greece"
+    ],
+    "tags": [
+      "language",
+      "greek",
+      "script",
+      "europe",
+      "mediterranean"
+    ],
+    "image": "",
+    "fact": "**Greek script** — looks like a mix of Cyrillic and English but is its own alphabet"
+  },
+  {
+    "countries": [
+      "Guatemala"
+    ],
+    "tags": [
+      "google-car",
+      "car-bar",
+      "coverage",
+      "north-america",
+      "central-america"
+    ],
+    "image": "",
+    "fact": "**Google car roof rack / car bar** — present in almost every frame"
+  },
+  {
+    "countries": [
+      "Hong Kong"
+    ],
+    "tags": [
+      "architecture",
+      "buildings",
+      "asia",
+      "skyline",
+      "urban"
+    ],
+    "image": "",
+    "fact": "**Super tall, super crammed buildings** — dense high-rise architecture"
+  },
+  {
+    "countries": [
+      "Hungary"
+    ],
+    "tags": [
+      "poles",
+      "holy-poles",
+      "europe",
+      "central-europe"
+    ],
+    "image": "",
+    "fact": "**Holy poles** — holes all the way down to the ground (like Romania, unlike Poland)"
+  },
+  {
+    "countries": [
+      "Iceland"
+    ],
+    "tags": [
+      "bollards",
+      "yellow",
+      "europe",
+      "nordics"
+    ],
+    "image": "",
+    "fact": "**Yellow bollard** — bright yellow, found everywhere"
+  },
+  {
+    "countries": [
+      "India"
+    ],
+    "tags": [
+      "crap-cam",
+      "coverage",
+      "asia",
+      "south-asia"
+    ],
+    "image": "",
+    "fact": "**Crap cam** — the country with the most crap cam by far"
+  },
+  {
+    "countries": [
+      "Indonesia"
+    ],
+    "tags": [
+      "license-plate",
+      "black-plates",
+      "asia",
+      "southeast-asia",
+      "plates"
+    ],
+    "image": "",
+    "fact": "**Black license plates** — black plates with three sections of white writing (being phased out for white plates)"
+  },
+  {
+    "countries": [
+      "Ireland"
+    ],
+    "tags": [
+      "road-lines",
+      "yellow-dashed",
+      "europe",
+      "western-europe"
+    ],
+    "image": "",
+    "fact": "**Yellow dashed lines** on the outside of roads"
+  },
+  {
+    "countries": [
+      "Israel"
+    ],
+    "tags": [
+      "license-plate",
+      "yellow-plate",
+      "middle-east",
+      "plates",
+      "asia"
+    ],
+    "image": "",
+    "fact": "**Yellow license plates** — rare in the Middle East (also in Oman)"
+  },
+  {
+    "countries": [
+      "Italy"
+    ],
+    "tags": [
+      "license-plate",
+      "blue-strip",
+      "plates",
+      "europe",
+      "mediterranean"
+    ],
+    "image": "",
+    "fact": "**Short license plate with two blue strips** — very iconic"
+  },
+  {
+    "countries": [
+      "Japan"
+    ],
+    "tags": [
+      "coverage",
+      "low-cam",
+      "asia",
+      "east-asia"
+    ],
+    "image": "",
+    "fact": "**Low cam** — especially wide blur due to privacy laws"
+  },
+  {
+    "countries": [
+      "Jordan"
+    ],
+    "tags": [
+      "google-car",
+      "black-car",
+      "middle-east",
+      "asia",
+      "coverage"
+    ],
+    "image": "",
+    "fact": "**Black Google car** — present in 100% of non-backpack frames"
+  },
+  {
+    "countries": [
+      "Kazakhstan"
+    ],
+    "tags": [
+      "google-car",
+      "white-truck",
+      "asia",
+      "central-asia",
+      "coverage"
+    ],
+    "image": "",
+    "fact": "**White Google truck** — always present (unless blurred, but shape still visible)"
+  },
+  {
+    "countries": [
+      "Kenya"
+    ],
+    "tags": [
+      "google-car",
+      "snorkel",
+      "africa",
+      "coverage"
+    ],
+    "image": "",
+    "fact": "**Snorkel on the Google car/truck** — appears in gen 3 and gen 4"
+  },
+  {
+    "countries": [
+      "Kyrgyzstan"
+    ],
+    "tags": [
+      "google-car",
+      "car-bar",
+      "asia",
+      "central-asia",
+      "coverage"
+    ],
+    "image": "",
+    "fact": "**Google car bar / left mirror** — the car is the most useful clue"
+  },
+  {
+    "countries": [
+      "Laos"
+    ],
+    "tags": [
+      "google-car",
+      "yellow-plate",
+      "asia",
+      "southeast-asia",
+      "coverage"
+    ],
+    "image": "",
+    "fact": "**Google car** — yellow front license plate on cars"
+  },
+  {
+    "countries": [
+      "Latvia"
+    ],
+    "tags": [
+      "poles",
+      "hook-poles",
+      "europe",
+      "baltics"
+    ],
+    "image": "",
+    "fact": "**Hook poles** — wooden poles with alternating hooks"
+  },
+  {
+    "countries": [
+      "Lesotho"
+    ],
+    "tags": [
+      "landscape",
+      "table-mountain",
+      "africa",
+      "mountains"
+    ],
+    "image": "",
+    "fact": "**Table mountains** — flat-topped mountains visible everywhere"
+  },
+  {
+    "countries": [
+      "Liechtenstein"
+    ],
+    "tags": [
+      "license-plate",
+      "black-plates",
+      "europe",
+      "plates"
+    ],
+    "image": "",
+    "fact": "**Black license plates with red element** — unlike Switzerland's plates"
+  },
+  {
+    "countries": [
+      "Lithuania"
+    ],
+    "tags": [
+      "signs",
+      "language",
+      "g-dot",
+      "europe",
+      "baltics"
+    ],
+    "image": "",
+    "fact": "**G dot** — 'G.' stands for 'gatvė' (street in Lithuanian), found on street signs"
+  },
+  {
+    "countries": [
+      "Luxembourg"
+    ],
+    "tags": [
+      "license-plate",
+      "yellow-plate",
+      "europe",
+      "western-europe",
+      "plates"
+    ],
+    "image": "",
+    "fact": "**Yellow license plates**"
+  },
+  {
+    "countries": [
+      "Madagascar"
+    ],
+    "tags": [
+      "coverage",
+      "trekker",
+      "africa",
+      "google-car"
+    ],
+    "image": "",
+    "fact": "**Trekker coverage only** — no regular car coverage"
+  },
+  {
+    "countries": [
+      "Malaysia"
+    ],
+    "tags": [
+      "poles",
+      "black-sticker",
+      "asia",
+      "southeast-asia"
+    ],
+    "image": "",
+    "fact": "**Black sticker/paint on poles** — on the peninsula side"
+  },
+  {
+    "countries": [
+      "Malta"
+    ],
+    "tags": [
+      "architecture",
+      "sandstone",
+      "stone",
+      "europe",
+      "mediterranean"
+    ],
+    "image": "",
+    "fact": "**Sandstone/limestone architecture** — unique warm stone buildings"
+  },
+  {
+    "countries": [
+      "Mexico"
+    ],
+    "tags": [
+      "poles",
+      "octagonal-pole",
+      "north-america"
+    ],
+    "image": "",
+    "fact": "**Octagonal pole** — by far the best way to identify Mexico"
+  },
+  {
+    "countries": [
+      "Monaco"
+    ],
+    "tags": [
+      "architecture",
+      "harbor",
+      "europe",
+      "mediterranean",
+      "landscape"
+    ],
+    "image": "",
+    "fact": "**Architecture and harbor vibe** — distinctive look of the harbor"
+  },
+  {
+    "countries": [
+      "Mongolia"
+    ],
+    "tags": [
+      "google-car",
+      "tent-car",
+      "asia",
+      "central-asia",
+      "coverage"
+    ],
+    "image": "",
+    "fact": "**Tent car / car sack** — distinctive cover on the Google car"
+  },
+  {
+    "countries": [
+      "Namibia"
+    ],
+    "tags": [
+      "google-car",
+      "white-truck",
+      "africa",
+      "coverage"
+    ],
+    "image": "",
+    "fact": "**White truck** — Google car in most coverage"
+  },
+  {
+    "countries": [
+      "Nepal"
+    ],
+    "tags": [
+      "crap-cam",
+      "coverage",
+      "asia",
+      "south-asia"
+    ],
+    "image": "",
+    "fact": "**Crap cam** — 100% crap cam (except Trekker)"
+  },
+  {
+    "countries": [
+      "Netherlands"
+    ],
+    "tags": [
+      "license-plate",
+      "yellow-plate",
+      "plates",
+      "europe",
+      "western-europe"
+    ],
+    "image": "",
+    "fact": "**Yellow license plates** — also brick buildings and brick roads"
+  },
+  {
+    "countries": [
+      "New Zealand"
+    ],
+    "tags": [
+      "bollards",
+      "red-edge",
+      "oceania"
+    ],
+    "image": "",
+    "fact": "**Red-edge bollard** — red wraps all the way to the edge"
+  },
+  {
+    "countries": [
+      "Nigeria"
+    ],
+    "tags": [
+      "google-car",
+      "police-car",
+      "africa",
+      "coverage"
+    ],
+    "image": "",
+    "fact": "**Police car** — the Google car looks like a police car"
+  },
+  {
+    "countries": [
+      "North Macedonia"
+    ],
+    "tags": [
+      "google-car",
+      "no-antenna",
+      "europe",
+      "balkans",
+      "coverage"
+    ],
+    "image": "",
+    "fact": "**Gen 3 car with no antenna** — the most common coverage lacks an antenna"
+  },
+  {
+    "countries": [
+      "Norway"
+    ],
+    "tags": [
+      "road-lines",
+      "long-dashes",
+      "yellow-center",
+      "europe",
+      "nordics"
+    ],
+    "image": "",
+    "fact": "**Long outer dashes** on the side of the road with **yellow middle lines**"
+  },
+  {
+    "countries": [
+      "Oman"
+    ],
+    "tags": [
+      "google-car",
+      "truck",
+      "middle-east",
+      "asia",
+      "coverage"
+    ],
+    "image": "",
+    "fact": "**Google truck** — coverage is only inside the truck"
+  },
+  {
+    "countries": [
+      "Panama"
+    ],
+    "tags": [
+      "google-car",
+      "truck",
+      "north-america",
+      "central-america",
+      "coverage"
+    ],
+    "image": "",
+    "fact": "**Google truck** — truck present in most coverage"
+  },
+  {
+    "countries": [
+      "Paraguay"
+    ],
+    "tags": [
+      "google-car",
+      "silver-truck",
+      "south-america",
+      "coverage"
+    ],
+    "image": "",
+    "fact": "**Silver Google truck** — recently added coverage"
+  },
+  {
+    "countries": [
+      "Peru"
+    ],
+    "tags": [
+      "signs",
+      "signposts",
+      "striped",
+      "south-america"
+    ],
+    "image": "",
+    "fact": "**Black and white striped signposts** — unique in South America"
+  },
+  {
+    "countries": [
+      "Philippines"
+    ],
+    "tags": [
+      "road",
+      "concrete",
+      "asia",
+      "southeast-asia",
+      "tricycles"
+    ],
+    "image": "",
+    "fact": "**Concrete roads** — also tricycles with roofs"
+  },
+  {
+    "countries": [
+      "Poland"
+    ],
+    "tags": [
+      "poles",
+      "holy-poles",
+      "europe",
+      "eastern-europe"
+    ],
+    "image": "",
+    "fact": "**Holy poles** — no holes near the bottom (unlike Hungary/Romania)"
+  },
+  {
+    "countries": [
+      "Portugal"
+    ],
+    "tags": [
+      "license-plate",
+      "yellow-plate",
+      "plates",
+      "europe",
+      "mediterranean"
+    ],
+    "image": "",
+    "fact": "**Yellow on the right side of the license plate**"
+  },
+  {
+    "countries": [
+      "Qatar"
+    ],
+    "tags": [
+      "google-car",
+      "antenna",
+      "middle-east",
+      "asia",
+      "coverage"
+    ],
+    "image": "",
+    "fact": "**Antenna on the left side** of the Google car"
+  },
+  {
+    "countries": [
+      "Romania"
+    ],
+    "tags": [
+      "poles",
+      "holy-poles",
+      "europe",
+      "eastern-europe"
+    ],
+    "image": "",
+    "fact": "**Holy poles** — thicker holy poles with white paint at the bottom"
+  },
+  {
+    "countries": [
+      "Russia"
+    ],
+    "tags": [
+      "poles",
+      "white-pole",
+      "black-sock",
+      "europe",
+      "asia",
+      "eastern-europe"
+    ],
+    "image": "",
+    "fact": "**White painted pole with black sock** at the bottom"
+  },
+  {
+    "countries": [
+      "Rwanda"
+    ],
+    "tags": [
+      "google-car",
+      "brake-light",
+      "truck",
+      "africa",
+      "coverage"
+    ],
+    "image": "",
+    "fact": "**Truck with brake light** — the Google car specifically shows the brake light"
+  },
+  {
+    "countries": [
+      "San Marino"
+    ],
+    "tags": [
+      "bollards",
+      "europe",
+      "mediterranean"
+    ],
+    "image": "",
+    "fact": "**Bollards** — like Italy's but distinct, also the hill with castle"
+  },
+  {
+    "countries": [
+      "Sao Tome and Principe"
+    ],
+    "tags": [
+      "crap-cam",
+      "coverage",
+      "africa",
+      "low-cam"
+    ],
+    "image": "",
+    "fact": "**Ultra-low camera quality / crap cam** — extremely poor resolution"
+  },
+  {
+    "countries": [
+      "Senegal"
+    ],
+    "tags": [
+      "language",
+      "french",
+      "africa",
+      "signs",
+      "western-africa"
+    ],
+    "image": "",
+    "fact": "**French language** — French signs in Africa distinguish it from most other African countries"
+  },
+  {
+    "countries": [
+      "Serbia"
+    ],
+    "tags": [
+      "google-car",
+      "no-antenna",
+      "europe",
+      "balkans",
+      "coverage"
+    ],
+    "image": "",
+    "fact": "**Gen 3 car with no antenna** — most common coverage lacks antenna"
+  },
+  {
+    "countries": [
+      "Singapore"
+    ],
+    "tags": [
+      "signs",
+      "green-background",
+      "asia",
+      "southeast-asia",
+      "urban"
+    ],
+    "image": "",
+    "fact": "**Street signs with wide font on green background** — unique design"
+  },
+  {
+    "countries": [
+      "Slovakia"
+    ],
+    "tags": [
+      "bollards",
+      "europe",
+      "central-europe"
+    ],
+    "image": "",
+    "fact": "**Bollard** — same as Czechia's bollard"
+  },
+  {
+    "countries": [
+      "Slovenia"
+    ],
+    "tags": [
+      "bollards",
+      "europe",
+      "central-europe",
+      "reflector"
+    ],
+    "image": "",
+    "fact": "**Bollard** — more red reflector (unlike Austria's dark red)"
+  },
+  {
+    "countries": [
+      "South Africa"
+    ],
+    "tags": [
+      "road-lines",
+      "yellow-center",
+      "africa"
+    ],
+    "image": "",
+    "fact": "**Road lines — yellow on the outside, white in the middle**"
+  },
+  {
+    "countries": [
+      "South Korea"
+    ],
+    "tags": [
+      "language",
+      "korean",
+      "script",
+      "asia",
+      "east-asia"
+    ],
+    "image": "",
+    "fact": "**Korean script** — distinctive Hangul alphabet"
+  },
+  {
+    "countries": [
+      "Spain"
+    ],
+    "tags": [
+      "bollards",
+      "shark-bollard",
+      "europe",
+      "mediterranean"
+    ],
+    "image": "",
+    "fact": "**Shark bollard / two-fins bollard** — bollard with two teeth at the top"
+  },
+  {
+    "countries": [
+      "Sri Lanka"
+    ],
+    "tags": [
+      "google-car",
+      "french-flag",
+      "asia",
+      "south-asia",
+      "coverage"
+    ],
+    "image": "",
+    "fact": "**French flag Google car** — blue, white, and red on the gen 3 car"
+  },
+  {
+    "countries": [
+      "Sweden"
+    ],
+    "tags": [
+      "road-lines",
+      "short-dashes",
+      "europe",
+      "nordics"
+    ],
+    "image": "",
+    "fact": "**Short dashes on the outside of the road** — unlike Norway's long dashes"
+  },
+  {
+    "countries": [
+      "Switzerland"
+    ],
+    "tags": [
+      "coverage",
+      "low-cam",
+      "europe",
+      "central-europe"
+    ],
+    "image": "",
+    "fact": "**Low cam** — small cam/blur unique in Europe (except Liechtenstein)"
+  },
+  {
+    "countries": [
+      "Taiwan"
+    ],
+    "tags": [
+      "poles",
+      "yellow-black",
+      "asia",
+      "east-asia"
+    ],
+    "image": "",
+    "fact": "**Pole with yellow and black stripes** all the way to the bottom"
+  },
+  {
+    "countries": [
+      "Thailand"
+    ],
+    "tags": [
+      "poles",
+      "square-poles",
+      "asia",
+      "southeast-asia"
+    ],
+    "image": "",
+    "fact": "**Square poles with dots** all the way down to the ground"
+  },
+  {
+    "countries": [
+      "Timor-Leste"
+    ],
+    "tags": [
+      "google-car",
+      "follow-car",
+      "gen-4",
+      "asia",
+      "southeast-asia",
+      "red-plate"
+    ],
+    "image": "",
+    "fact": "**Gen 4 follow car** — Toyota in the capital (Dili), Mazda in the south with red plate"
+  },
+  {
+    "countries": [
+      "Turkey"
+    ],
+    "tags": [
+      "signs",
+      "flag",
+      "turkey",
+      "europe",
+      "asia",
+      "middle-east"
+    ],
+    "image": "",
+    "fact": "**Turkish flag** — appears frequently"
+  },
+  {
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "tags": [
+      "landscape",
+      "architecture",
+      "skyscrapers",
+      "middle-east",
+      "asia"
+    ],
+    "image": "",
+    "fact": "**Landscape and skyscrapers** — desert setting with modern business district"
+  },
+  {
+    "countries": [
+      "Uganda"
+    ],
+    "tags": [
+      "google-car",
+      "white-truck",
+      "no-roof-rack",
+      "africa",
+      "coverage"
+    ],
+    "image": "",
+    "fact": "**White truck with no roof rack** — the Google car there"
+  },
+  {
+    "countries": [
+      "Ukraine"
+    ],
+    "tags": [
+      "google-car",
+      "red-car",
+      "europe",
+      "eastern-europe",
+      "coverage"
+    ],
+    "image": "",
+    "fact": "**Red Google car** — instantly distinctive"
+  },
+  {
+    "countries": [
+      "United Kingdom"
+    ],
+    "tags": [
+      "license-plate",
+      "white-front",
+      "yellow-rear",
+      "europe",
+      "western-europe",
+      "plates"
+    ],
+    "image": "",
+    "fact": "**White front plate, yellow rear plate** — iconic UK license plate scheme"
+  },
+  {
+    "countries": [
+      "United States"
+    ],
+    "tags": [
+      "road-lines",
+      "yellow-center",
+      "north-america"
+    ],
+    "image": "",
+    "fact": "**Yellow center lines** — very consistent, always yellow in the middle"
+  },
+  {
+    "countries": [
+      "Uruguay"
+    ],
+    "tags": [
+      "coverage",
+      "cloudy",
+      "hazy",
+      "south-america"
+    ],
+    "image": "",
+    "fact": "**Cloudy / hazy coverage** — extremely cloudy sky coverage"
+  },
+  {
+    "countries": [
+      "Vietnam"
+    ],
+    "tags": [
+      "language",
+      "vietnamese",
+      "asia",
+      "southeast-asia",
+      "script"
+    ],
+    "image": "",
+    "fact": "**Vietnamese language** — Latin alphabet with diacritics, distinct look"
+  },
+  {
+    "countries": [
+      "Lebanon"
+    ],
+    "tags": [
+      "crap-cam",
+      "coverage",
+      "middle-east",
+      "asia",
+      "mediterranean"
+    ],
+    "image": "",
+    "fact": "**Crap cam** — very low quality camera coverage"
   }
 ]
