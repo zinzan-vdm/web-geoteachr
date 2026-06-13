@@ -131,19 +131,31 @@ main {
   border-radius: 8px;
   flex-shrink: 0;
   background: var(--badge-bg);
+  display: block;
 }
 
-.fact-image[src] {
+.fact-image-wrap {
+  width: 200px;
+  height: 200px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  overflow: visible;
+  position: relative;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
   cursor: zoom-in;
-  position: relative;
+  z-index: 1;
 }
 
-.fact-image[src]:hover {
+.fact-image-wrap:hover {
   transform: scale(2.5);
   box-shadow: 0 8px 32px rgba(0,0,0,0.35);
   cursor: zoom-out;
   z-index: 10;
+  border-radius: 6px;
+}
+
+.fact-image-wrap:hover .fact-image {
+  object-fit: contain;
   border-radius: 6px;
 }
 
@@ -245,7 +257,8 @@ main {
     flex-direction: column;
   }
 
-  .fact-image {
+  .fact-image,
+  .fact-image-wrap {
     width: 100%;
     height: auto;
     aspect-ratio: 1 / 1;

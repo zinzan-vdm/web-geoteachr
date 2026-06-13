@@ -51,9 +51,14 @@ function renderFacts(filtered) {
       img.src = fact.image;
       img.alt = fact.alt || '';
       img.onerror = function () {
-        this.outerHTML =
+        this.parentElement.outerHTML =
           '<div class="fact-image" style="display:flex;align-items:center;justify-content:center;background:var(--badge-bg);border-radius:8px;color:var(--muted);font-size:0.85rem">No image</div>';
       };
+      // Wrap in a zoom container
+      const zoomWrap = document.createElement('div');
+      zoomWrap.className = 'fact-image-wrap';
+      zoomWrap.appendChild(img);
+      card.appendChild(zoomWrap);
     } else {
       img.style.display = 'none';
       const placeholder = document.createElement('div');
@@ -63,7 +68,6 @@ function renderFacts(filtered) {
       placeholder.textContent = 'No image';
       card.appendChild(placeholder);
     }
-    if (fact.image) card.appendChild(img);
 
     // Content wrapper
     const content = document.createElement('div');
