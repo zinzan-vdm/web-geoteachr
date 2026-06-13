@@ -162,22 +162,42 @@ main {
   color: var(--bg);
 }
 
-/* ─── Flag in Badge ─── */
+/* ─── Flag ─── */
 .flag-wrap {
   display: inline-flex;
   width: 18px;
   height: 18px;
-  background: #fff;
   border-radius: 2px;
-  overflow: hidden;
+  overflow: visible;
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
+  position: relative;
+  cursor: pointer;
 }
 
 .flag-icon {
   width: 18px;
   height: 13.5px;
+  display: block;
+}
+
+.flag-popover {
+  display: none;
+  position: absolute;
+  bottom: calc(100% + 6px);
+  left: 50%;
+  transform: translateX(-50%);
+  width: 72px;
+  height: 54px;
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.35);
+  z-index: 10;
+  pointer-events: none;
+  background: #fff;
+}
+
+.flag-wrap:hover .flag-popover {
   display: block;
 }
 

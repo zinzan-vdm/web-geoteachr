@@ -85,6 +85,15 @@ function renderFacts(filtered) {
           flagImg.src = `assets/flags/${code}.svg`;
           flagImg.alt = code;
           flagWrap.appendChild(flagImg);
+
+          // Popover: larger flag preview on hover
+          const popImg = document.createElement('img');
+          popImg.className = 'flag-popover';
+          popImg.src = `assets/flags/${code}.svg`;
+          popImg.alt = code;
+          popImg.loading = 'lazy';
+          flagWrap.appendChild(popImg);
+
           badges.appendChild(flagWrap);
         }
 
