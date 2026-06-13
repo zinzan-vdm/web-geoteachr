@@ -1,2 +1,4 @@
 *.zip
 screenshot.png
+# Scraped geometas HTML cache
+assets/fact-images/html/
