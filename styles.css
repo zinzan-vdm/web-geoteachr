@@ -147,6 +147,9 @@ main {
 }
 
 .badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
   padding: 4px 12px;
   border-radius: 100px;
   background: var(--accent);
@@ -157,6 +160,25 @@ main {
 
 [data-theme="light"] .badge {
   color: var(--bg);
+}
+
+/* ─── Flag in Badge ─── */
+.flag-wrap {
+  display: inline-flex;
+  width: 18px;
+  height: 18px;
+  background: #fff;
+  border-radius: 2px;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.flag-icon {
+  width: 18px;
+  height: 13.5px;
+  display: block;
 }
 
 /* ─── Tags ─── */
