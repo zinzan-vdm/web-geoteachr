@@ -74,10 +74,9 @@ function renderFacts(filtered) {
     badges.className = 'country-badges';
     if (fact.countries && fact.countries.length) {
       for (const country of fact.countries) {
-        const span = document.createElement('span');
-        span.className = 'badge';
-
         const code = getCountryCode(country);
+
+        // Flag icon outside the badge (for visibility)
         if (code) {
           const flagWrap = document.createElement('span');
           flagWrap.className = 'flag-wrap';
@@ -86,10 +85,22 @@ function renderFacts(filtered) {
           flagImg.src = `assets/flags/${code}.svg`;
           flagImg.alt = code;
           flagWrap.appendChild(flagImg);
-          span.appendChild(flagWrap);
+
+          // Popover: larger flag preview on hover
+          const popImg = document.createElement('img');
+          popImg.className = 'flag-popover';
+          popImg.src = `assets/flags/${code}.svg`;
+          popImg.alt = code;
+          popImg.loading = 'lazy';
+          flagWrap.appendChild(popImg);
+
+          badges.appendChild(flagWrap);
         }
 
-        span.appendChild(document.createTextNode(country));
+        // Badge with country name only
+        const span = document.createElement('span');
+        span.className = 'badge';
+        span.textContent = country;
         badges.appendChild(span);
       }
     }
