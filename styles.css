@@ -154,7 +154,7 @@ main {
   padding: 2px 4px;
   border-radius: 4px;
   color: var(--accent);
-  font-size: 0.85rem;
+  font-size: 1rem;
   font-weight: 500;
 }
 
@@ -216,7 +216,7 @@ main {
 
 /* ─── Fact Text ─── */
 .fact-text {
-  font-size: 1rem;
+  font-size: 0.9rem;
   line-height: 1.5;
 }
 
