@@ -5,8 +5,8 @@ A simple, static tool for browsing GeoGuessr country-identification tricks.
 ## What it is
 
 A filterable reference of geographic tells — road lines, bollards, poles,
-signs, license plates, vegetation, sun direction — with images and descriptions.
-All data lives in `facts.json` so you can easily add your own.
+signs, license plates, vegetation, language, Google cars — with images and
+descriptions. All data lives in `facts.json` so you can easily add your own.
 
 ## Run
 
@@ -41,3 +41,9 @@ Containerfile    — Caddy container
 
 Edit `facts.json` — each entry needs `countries`, `tags`, `image` (or empty),
 and `fact` (can include `<strong>`, `<em>`, etc.).
+
+## Sources
+
+Facts derived from the video *"The Best Meta for EVERY Country in GeoGuessr"*
+by **Zigzag** ([watch on YouTube](https://www.youtube.com/watch?v=Lnfwp9EGsAo)).
+Tags and categorization inspired by [Geometas](https://geometas.com/).
