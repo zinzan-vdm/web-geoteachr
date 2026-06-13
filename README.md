@@ -46,7 +46,8 @@ Containerfile        — Caddy container
 ## Add facts
 
 Edit `facts.json` — each entry needs `countries`, `tags`, `image` (or empty),
-and `fact` (can include `<strong>`, `<em>`, etc.).
+and `fact` (HTML formatting only — no Markdown. Use `<strong>bold</strong>`
+instead of `**bold**`, `<em>italic</em>` instead of `*italic*`, etc.).
 
 ## Sources
 
