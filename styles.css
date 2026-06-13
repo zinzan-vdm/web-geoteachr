@@ -121,6 +121,7 @@ main {
   border-radius: 12px;
   padding: 20px;
   border: 1px solid var(--border);
+  overflow: visible;
 }
 
 .fact-image {
@@ -130,6 +131,20 @@ main {
   border-radius: 8px;
   flex-shrink: 0;
   background: var(--badge-bg);
+}
+
+.fact-image[src] {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  cursor: zoom-in;
+  position: relative;
+}
+
+.fact-image[src]:hover {
+  transform: scale(2.5);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.35);
+  cursor: zoom-out;
+  z-index: 10;
+  border-radius: 6px;
 }
 
 .fact-content {
