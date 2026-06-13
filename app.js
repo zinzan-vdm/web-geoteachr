@@ -158,7 +158,8 @@ function scoreFact(fact, words) {
 
   const total = words.length;
   const matched = countryMatches + tagMatches + textMatches;
-  if (matched === 0) return null;
+  // Every word must match at least one field (compounding filter)
+  if (matched !== total) return null;
 
   let tier;
   if (countryMatches > 0) tier = 0;

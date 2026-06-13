@@ -20,12 +20,13 @@ Open http://localhost:8080.
 
 ## Usage
 
-- **Search** — type to fuzzy-filter across countries, tags, and fact text.
-  Results sorted by best match (words close together rank higher).
-- **Multi-filter** — separate multiple queries with `;` to find facts matching
-  *all* parts. E.g. `bollards; france` shows only French bollard facts.
+- **Search** — each word narrows results. Type `bollard france` to see only
+  facts where *both* "bollard" *and* "france" match (country, tag, or text).
+  Sorted by match quality: country > tag > description.
+- **Multi-filter** — use `;` to combine independent queries. E.g. `bollards; france`
+  finds facts matching all words in "bollards" AND all words in "france".
 - **Flag descriptions** — each country has a flag entry (tag: `flag`) with
-  its colors. Search e.g. `flag; red, white, blue` to find countries by flag.
+  its colors. Search e.g. `flag; red white blue` to find countries by flag.
 - **`/`** — focus search from anywhere on the page.
 - **`Enter`** — focus search (when not in a text input).
 - **`Escape`** — clear the current search and blur the input.
