@@ -1,0 +1,196 @@
+/* ─── Theme Variables ─── */
+:root,
+[data-theme="dark"] {
+  --bg: #222222;
+  --text: #fcfcfc;
+  --accent: #55c1ff;
+  --card-bg: #2a2a2a;
+  --border: #333333;
+  --muted: #999999;
+  --badge-bg: #333333;
+}
+
+[data-theme="light"] {
+  --bg: #fcfcfc;
+  --text: #222222;
+  --accent: #55c1ff;
+  --card-bg: #ffffff;
+  --border: #eeeeee;
+  --muted: #888888;
+  --badge-bg: #e8e8e8;
+}
+
+/* ─── Reset ─── */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* ─── Base ─── */
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+}
+
+/* ─── Header ─── */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 24px;
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--bg);
+}
+
+h1 {
+  color: var(--accent);
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+/* ─── Theme Toggle ─── */
+#theme-toggle {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2rem;
+  padding: 4px 8px;
+  border-radius: 6px;
+  transition: background 0.2s;
+}
+
+#theme-toggle:hover {
+  background: var(--card-bg);
+}
+
+/* ─── Main ─── */
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 24px 24px 48px;
+}
+
+/* ─── Search Input ─── */
+#search-input {
+  width: 100%;
+  padding: 12px 16px;
+  border-radius: 8px;
+  background: var(--card-bg);
+  color: var(--text);
+  border: 1px solid var(--border);
+  font-size: 1rem;
+  outline: none;
+  transition: border-color 0.2s;
+  margin-bottom: 24px;
+}
+
+#search-input:focus {
+  border-color: var(--accent);
+}
+
+#search-input::placeholder {
+  color: var(--muted);
+}
+
+/* ─── Facts Container ─── */
+#facts-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* ─── Empty State ─── */
+.empty-state {
+  text-align: center;
+  color: var(--muted);
+  padding: 48px 24px;
+  font-size: 1rem;
+}
+
+/* ─── Fact Card ─── */
+.fact-card {
+  display: flex;
+  gap: 20px;
+  background: var(--card-bg);
+  border-radius: 12px;
+  padding: 20px;
+  border: 1px solid var(--border);
+}
+
+.fact-image {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+  flex-shrink: 0;
+  background: var(--badge-bg);
+}
+
+.fact-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+/* ─── Country Badges ─── */
+.country-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.badge {
+  padding: 4px 12px;
+  border-radius: 100px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+[data-theme="light"] .badge {
+  color: var(--bg);
+}
+
+/* ─── Tags ─── */
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.tag::before {
+  content: "#";
+}
+
+/* ─── Fact Text ─── */
+.fact-text {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.fact-text strong {
+  color: var(--accent);
+}
+
+/* ─── Responsive ─── */
+@media (max-width: 640px) {
+  .fact-card {
+    flex-direction: column;
+  }
+
+  .fact-image {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1 / 1;
+  }
+}

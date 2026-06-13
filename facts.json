@@ -1,0 +1,62 @@
+[
+  {
+    "countries": ["United States"],
+    "tags": ["road-lines", "gen-2", "driving-side"],
+    "image": "https://images.unsplash.com/photo-1549490349-8643362247b5?w=400",
+    "fact": "USA has <strong>solid yellow</strong> center lines and <strong>white</strong> edge lines on the right. Road lines are always yellow on the left edge, white on the right edge of the road."
+  },
+  {
+    "countries": ["United Kingdom", "Ireland"],
+    "tags": ["bollards", "gen-2", "road-infrastructure"],
+    "image": "https://images.unsplash.com/photo-1518156677180-95a2893d3e9f?w=400",
+    "fact": "UK bollards are <strong>round</strong> with reflective bands — white at the top, <strong>red</strong> below. Ireland bollards are similar but have <strong>yellow</strong> reflective bands instead of red."
+  },
+  {
+    "countries": ["France"],
+    "tags": ["bollards", "gen-2", "road-infrastructure"],
+    "image": "https://images.unsplash.com/photo-1504622970437-4a70b0503c1a?w=400",
+    "fact": "French bollards are <strong>square/concrete</strong> with a flat top, white body, and a single <strong>orange</strong> reflective stripe near the top — unmistakable once you know it."
+  },
+  {
+    "countries": ["Finland"],
+    "tags": ["pole", "gen-2", "infrastructure"],
+    "image": "https://images.unsplash.com/photo-1531152499509-1f944a458ac1?w=400",
+    "fact": "Finland has distinctive <strong>two-arm power poles</strong> (&#39;Finnish Y-poles&#39;) where the crossbars form a subtle V or Y shape. Ground-mounted transformers on concrete bases are also common."
+  },
+  {
+    "countries": ["Sweden"],
+    "tags": ["pole", "gen-2", "infrastructure"],
+    "image": "https://images.unsplash.com/photo-1519138130-85a949fdcb4f?w=400",
+    "fact": "Swedish utility poles often have <strong>three crossbars</strong> in a stepped configuration. Look for the distinctive <strong>trunk-mounted fuse boxes</strong> and insulators on angled brackets."
+  },
+  {
+    "countries": ["Australia", "New Zealand"],
+    "tags": ["sun", "hemisphere", "vegetation", "gen-3"],
+    "image": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=400",
+    "fact": "In the <strong>southern hemisphere</strong>, the sun is in the <strong>northern</strong> part of the sky. Since Google car covers face north/south, <strong>Australia & NZ coverage shows the sun to the north</strong> — opposite of what you&#39;d expect in Europe/USA."
+  },
+  {
+    "countries": ["Germany", "Austria", "Switzerland"],
+    "tags": ["signs", "language", "gen-2", "road-infrastructure"],
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=400",
+    "fact": "German-speaking countries use <strong>white-on-blue</strong> highway signs (Autobahn) with serif fonts. Town signs are yellow with black text. Look for <em>Ausfahrt</em> (exit), <em>Straße</em> (street), and the distinctive <strong>Bundesstraße yellow signs</strong> with black numbers."
+  },
+  {
+    "countries": ["Italy"],
+    "tags": ["architecture", "signs", "gen-2"],
+    "image": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?w=400",
+    "fact": "Italian road signs feature <strong>green backgrounds</strong> for motorways and <strong>blue for local roads</strong>. Town name signs have a distinctive <strong>red border with two towers</strong> icon. Architecture is a huge clue — terracotta roofs, shuttered windows, narrow medieval streets."
+  },
+  {
+    "countries": ["Japan"],
+    "tags": ["license-plate", "signs", "gen-2", "language"],
+    "image": "https://images.unsplash.com/photo-1528164344705-47542687000d?w=400",
+    "fact": "Japanese license plates are <strong>white with green text</strong> (standard) or <strong>yellow with green text</strong> (kei cars). The plate format shows the city/region name in <strong>kanji</strong> at the top. Signs use <strong>blue/white</strong> with both Japanese characters and Romanized text."
+  },
+  {
+    "countries": ["South Africa", "Lesotho", "Eswatini"],
+    "tags": ["dry-landscape", "vegetation", "gen-2", "license-plate"],
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=400",
+    "fact": "South Africa has <strong>red/white bollard reflectors</strong> (like the UK) but drives on the <strong>left</strong>. The landscape is distinctive — flat-topped <em>table mountains</em>, dry savanna, and aloe plants. License plates are <strong>white/yellow</strong> (front/rear) with provincial codes like <strong>GP</strong> (Gauteng), <strong>WC</strong> (Western Cape)."
+  }
+]
