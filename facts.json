@@ -1348,6 +1348,26 @@
   },
   {
     "countries": [
+      "Afghanistan"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>black, red, green, white</strong>"
+  },
+  {
+    "countries": [
+      "Aland Islands"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
       "Albania"
     ],
     "tags": [
@@ -1355,6 +1375,26 @@
     ],
     "image": "",
     "fact": "Flag: <strong>red, black</strong>"
+  },
+  {
+    "countries": [
+      "Algeria"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, white, red</strong>"
+  },
+  {
+    "countries": [
+      "American Samoa"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
   },
   {
     "countries": [
@@ -1368,6 +1408,46 @@
   },
   {
     "countries": [
+      "Angola"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, black, yellow</strong>"
+  },
+  {
+    "countries": [
+      "Anguilla"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Antarctica"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Antigua and Barbuda"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
       "Argentina"
     ],
     "tags": [
@@ -1375,6 +1455,46 @@
     ],
     "image": "",
     "fact": "Flag: <strong>light blue, white</strong>"
+  },
+  {
+    "countries": [
+      "Armenia"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, blue, orange</strong>"
+  },
+  {
+    "countries": [
+      "Aruba"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Ascension Island"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Association of Southeast Asian Nations"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
   },
   {
     "countries": [
@@ -1398,6 +1518,36 @@
   },
   {
     "countries": [
+      "Azerbaijan"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>blue, red, green</strong>"
+  },
+  {
+    "countries": [
+      "Bahamas"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>black, aqua, yellow</strong>"
+  },
+  {
+    "countries": [
+      "Bahrain"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, white</strong>"
+  },
+  {
+    "countries": [
       "Bangladesh"
     ],
     "tags": [
@@ -1408,6 +1558,36 @@
   },
   {
     "countries": [
+      "Barbados"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>blue, yellow, black</strong>"
+  },
+  {
+    "countries": [
+      "Basque Country"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Belarus"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, green, white</strong>"
+  },
+  {
+    "countries": [
       "Belgium"
     ],
     "tags": [
@@ -1415,6 +1595,36 @@
     ],
     "image": "",
     "fact": "Flag: <strong>black, yellow, red</strong>"
+  },
+  {
+    "countries": [
+      "Belize"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>blue, red, white</strong>"
+  },
+  {
+    "countries": [
+      "Benin"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, yellow, red</strong>"
+  },
+  {
+    "countries": [
+      "Bermuda"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
   },
   {
     "countries": [
@@ -1438,6 +1648,16 @@
   },
   {
     "countries": [
+      "Bonaire, Sint Eustatius and Saba"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
       "Bosnia and Herzegovina"
     ],
     "tags": [
@@ -1458,6 +1678,16 @@
   },
   {
     "countries": [
+      "Bouvet Island"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
       "Brazil"
     ],
     "tags": [
@@ -1465,6 +1695,26 @@
     ],
     "image": "",
     "fact": "Flag: <strong>green, yellow, blue, white</strong>"
+  },
+  {
+    "countries": [
+      "British Indian Ocean Territory"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Brunei Darussalam"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
   },
   {
     "countries": [
@@ -1478,6 +1728,36 @@
   },
   {
     "countries": [
+      "Burkina Faso"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, green, yellow</strong>"
+  },
+  {
+    "countries": [
+      "Burundi"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, white, green</strong>"
+  },
+  {
+    "countries": [
+      "Cabo Verde"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>blue, white, red, yellow</strong>"
+  },
+  {
+    "countries": [
       "Cambodia"
     ],
     "tags": [
@@ -1485,6 +1765,16 @@
     ],
     "image": "",
     "fact": "Flag: <strong>blue, red, white</strong>"
+  },
+  {
+    "countries": [
+      "Cameroon"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, red, yellow</strong>"
   },
   {
     "countries": [
@@ -1498,6 +1788,66 @@
   },
   {
     "countries": [
+      "Canary Islands"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Catalonia"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Cayman Islands"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Central African Republic"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>blue, white, green, yellow, red</strong>"
+  },
+  {
+    "countries": [
+      "Central European Free Trade Agreement"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Chad"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>blue, yellow, red</strong>"
+  },
+  {
+    "countries": [
       "Chile"
     ],
     "tags": [
@@ -1508,6 +1858,46 @@
   },
   {
     "countries": [
+      "China"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, yellow</strong>"
+  },
+  {
+    "countries": [
+      "Christmas Island"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Clipperton Island"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Cocos (Keeling) Islands"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
       "Colombia"
     ],
     "tags": [
@@ -1515,6 +1905,26 @@
     ],
     "image": "",
     "fact": "Flag: <strong>yellow, blue, red</strong>"
+  },
+  {
+    "countries": [
+      "Comoros"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, white, red, yellow, blue</strong>"
+  },
+  {
+    "countries": [
+      "Cook Islands"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
   },
   {
     "countries": [
@@ -1538,6 +1948,26 @@
   },
   {
     "countries": [
+      "Cuba"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>blue, red, white</strong>"
+  },
+  {
+    "countries": [
+      "Curaçao"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
       "Cyprus"
     ],
     "tags": [
@@ -1548,13 +1978,33 @@
   },
   {
     "countries": [
-      "Czechia"
+      "Czech Republic"
     ],
     "tags": [
       "flag"
     ],
     "image": "",
     "fact": "Flag: <strong>blue, red, white</strong>"
+  },
+  {
+    "countries": [
+      "Côte d'Ivoire"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Democratic Republic of the Congo"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
   },
   {
     "countries": [
@@ -1568,6 +2018,36 @@
   },
   {
     "countries": [
+      "Diego Garcia"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Djibouti"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>blue, green, white, red</strong>"
+  },
+  {
+    "countries": [
+      "Dominica"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, yellow, black, white, red</strong>"
+  },
+  {
+    "countries": [
       "Dominican Republic"
     ],
     "tags": [
@@ -1578,6 +2058,16 @@
   },
   {
     "countries": [
+      "East African Community"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
       "Ecuador"
     ],
     "tags": [
@@ -1585,6 +2075,56 @@
     ],
     "image": "",
     "fact": "Flag: <strong>yellow, blue, red</strong>"
+  },
+  {
+    "countries": [
+      "Egypt"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, white, black</strong>"
+  },
+  {
+    "countries": [
+      "El Salvador"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>blue, white</strong>"
+  },
+  {
+    "countries": [
+      "England"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Equatorial Guinea"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, white, red, blue</strong>"
+  },
+  {
+    "countries": [
+      "Eritrea"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, blue, red, yellow</strong>"
   },
   {
     "countries": [
@@ -1608,6 +2148,66 @@
   },
   {
     "countries": [
+      "Ethiopia"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, yellow, red, blue</strong>"
+  },
+  {
+    "countries": [
+      "Europe"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Falkland Islands"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Faroe Islands"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Federated States of Micronesia"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Fiji"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>light blue, white, red</strong>"
+  },
+  {
+    "countries": [
       "Finland"
     ],
     "tags": [
@@ -1625,6 +2225,76 @@
     ],
     "image": "",
     "fact": "Flag: <strong>blue, white, red</strong>"
+  },
+  {
+    "countries": [
+      "French Guiana"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "French Polynesia"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "French Southern Territories"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Gabon"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, yellow, blue</strong>"
+  },
+  {
+    "countries": [
+      "Galicia"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Gambia"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, blue, green, white</strong>"
+  },
+  {
+    "countries": [
+      "Georgia"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>white, red</strong>"
   },
   {
     "countries": [
@@ -1648,6 +2318,16 @@
   },
   {
     "countries": [
+      "Gibraltar"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
       "Greece"
     ],
     "tags": [
@@ -1658,7 +2338,127 @@
   },
   {
     "countries": [
+      "Greenland"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Grenada"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, yellow, red</strong>"
+  },
+  {
+    "countries": [
+      "Guadeloupe"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Guam"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
       "Guatemala"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>blue, white</strong>"
+  },
+  {
+    "countries": [
+      "Guernsey"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Guinea"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, yellow, green</strong>"
+  },
+  {
+    "countries": [
+      "Guinea-Bissau"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, yellow, green, black</strong>"
+  },
+  {
+    "countries": [
+      "Guyana"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, white, yellow, black, red</strong>"
+  },
+  {
+    "countries": [
+      "Haiti"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>blue, red</strong>"
+  },
+  {
+    "countries": [
+      "Heard Island and McDonald Islands"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Holy See"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Honduras"
     ],
     "tags": [
       "flag"
@@ -1718,6 +2518,26 @@
   },
   {
     "countries": [
+      "Iran"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, white, red</strong>"
+  },
+  {
+    "countries": [
+      "Iraq"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, white, black, green</strong>"
+  },
+  {
+    "countries": [
       "Ireland"
     ],
     "tags": [
@@ -1725,6 +2545,16 @@
     ],
     "image": "",
     "fact": "Flag: <strong>green, white, orange</strong>"
+  },
+  {
+    "countries": [
+      "Isle of Man"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
   },
   {
     "countries": [
@@ -1748,6 +2578,16 @@
   },
   {
     "countries": [
+      "Jamaica"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>black, green, yellow</strong>"
+  },
+  {
+    "countries": [
       "Japan"
     ],
     "tags": [
@@ -1755,6 +2595,16 @@
     ],
     "image": "",
     "fact": "Flag: <strong>white, red</strong>"
+  },
+  {
+    "countries": [
+      "Jersey"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
   },
   {
     "countries": [
@@ -1788,6 +2638,36 @@
   },
   {
     "countries": [
+      "Kiribati"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Kosovo"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Kuwait"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, white, red, black</strong>"
+  },
+  {
+    "countries": [
       "Kyrgyzstan"
     ],
     "tags": [
@@ -1818,6 +2698,16 @@
   },
   {
     "countries": [
+      "League of Arab States"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
       "Lebanon"
     ],
     "tags": [
@@ -1835,6 +2725,26 @@
     ],
     "image": "",
     "fact": "Flag: <strong>blue, white, green, black</strong>"
+  },
+  {
+    "countries": [
+      "Liberia"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, white, blue</strong>"
+  },
+  {
+    "countries": [
+      "Libya"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, black, green, white</strong>"
   },
   {
     "countries": [
@@ -1868,6 +2778,16 @@
   },
   {
     "countries": [
+      "Macau"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
       "Madagascar"
     ],
     "tags": [
@@ -1875,6 +2795,16 @@
     ],
     "image": "",
     "fact": "Flag: <strong>white, red, green</strong>"
+  },
+  {
+    "countries": [
+      "Malawi"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>black, red, green</strong>"
   },
   {
     "countries": [
@@ -1888,6 +2818,26 @@
   },
   {
     "countries": [
+      "Maldives"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, white, green</strong>"
+  },
+  {
+    "countries": [
+      "Mali"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, yellow, red</strong>"
+  },
+  {
+    "countries": [
       "Malta"
     ],
     "tags": [
@@ -1898,6 +2848,56 @@
   },
   {
     "countries": [
+      "Marshall Islands"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>blue, orange, white</strong>"
+  },
+  {
+    "countries": [
+      "Martinique"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Mauritania"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, yellow, red</strong>"
+  },
+  {
+    "countries": [
+      "Mauritius"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, blue, yellow, green</strong>"
+  },
+  {
+    "countries": [
+      "Mayotte"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
       "Mexico"
     ],
     "tags": [
@@ -1905,6 +2905,16 @@
     ],
     "image": "",
     "fact": "Flag: <strong>green, white, red</strong>"
+  },
+  {
+    "countries": [
+      "Moldova"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
   },
   {
     "countries": [
@@ -1938,6 +2948,46 @@
   },
   {
     "countries": [
+      "Montserrat"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Morocco"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, green</strong>"
+  },
+  {
+    "countries": [
+      "Mozambique"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, white, black, yellow, red</strong>"
+  },
+  {
+    "countries": [
+      "Myanmar"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>yellow, green, red, white</strong>"
+  },
+  {
+    "countries": [
       "Namibia"
     ],
     "tags": [
@@ -1945,6 +2995,16 @@
     ],
     "image": "",
     "fact": "Flag: <strong>blue, green, red, white, yellow</strong>"
+  },
+  {
+    "countries": [
+      "Nauru"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>blue, yellow, white</strong>"
   },
   {
     "countries": [
@@ -1968,6 +3028,16 @@
   },
   {
     "countries": [
+      "New Caledonia"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
       "New Zealand"
     ],
     "tags": [
@@ -1975,6 +3045,26 @@
     ],
     "image": "",
     "fact": "Flag: <strong>blue, red, white</strong>"
+  },
+  {
+    "countries": [
+      "Nicaragua"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>blue, white</strong>"
+  },
+  {
+    "countries": [
+      "Niger"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>orange, white, green</strong>"
   },
   {
     "countries": [
@@ -1988,6 +3078,36 @@
   },
   {
     "countries": [
+      "Niue"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Norfolk Island"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "North Korea"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, white, blue</strong>"
+  },
+  {
+    "countries": [
       "North Macedonia"
     ],
     "tags": [
@@ -1995,6 +3115,26 @@
     ],
     "image": "",
     "fact": "Flag: <strong>red, yellow</strong>"
+  },
+  {
+    "countries": [
+      "Northern Ireland"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Northern Mariana Islands"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
   },
   {
     "countries": [
@@ -2018,6 +3158,36 @@
   },
   {
     "countries": [
+      "Pacific Community"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Pakistan"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, white</strong>"
+  },
+  {
+    "countries": [
+      "Palau"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>blue, yellow</strong>"
+  },
+  {
+    "countries": [
       "Panama"
     ],
     "tags": [
@@ -2025,6 +3195,16 @@
     ],
     "image": "",
     "fact": "Flag: <strong>blue, red, white</strong>"
+  },
+  {
+    "countries": [
+      "Papua New Guinea"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, black, yellow, white</strong>"
   },
   {
     "countries": [
@@ -2058,6 +3238,16 @@
   },
   {
     "countries": [
+      "Pitcairn"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
       "Poland"
     ],
     "tags": [
@@ -2078,6 +3268,16 @@
   },
   {
     "countries": [
+      "Puerto Rico"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
       "Qatar"
     ],
     "tags": [
@@ -2085,6 +3285,16 @@
     ],
     "image": "",
     "fact": "Flag: <strong>maroon, white</strong>"
+  },
+  {
+    "countries": [
+      "Republic of the Congo"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
   },
   {
     "countries": [
@@ -2118,6 +3328,106 @@
   },
   {
     "countries": [
+      "Réunion"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Saint Barthélemy"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Saint Helena"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Saint Helena, Ascension and Tristan da Cunha"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Saint Kitts and Nevis"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, yellow, black, white, red</strong>"
+  },
+  {
+    "countries": [
+      "Saint Lucia"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>light blue, yellow, black, white</strong>"
+  },
+  {
+    "countries": [
+      "Saint Martin"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Saint Pierre and Miquelon"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Saint Vincent and the Grenadines"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>blue, yellow, green</strong>"
+  },
+  {
+    "countries": [
+      "Samoa"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, white, blue</strong>"
+  },
+  {
+    "countries": [
       "San Marino"
     ],
     "tags": [
@@ -2135,6 +3445,26 @@
     ],
     "image": "",
     "fact": "Flag: <strong>green, yellow, red, black</strong>"
+  },
+  {
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, white</strong>"
+  },
+  {
+    "countries": [
+      "Scotland"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
   },
   {
     "countries": [
@@ -2158,6 +3488,26 @@
   },
   {
     "countries": [
+      "Seychelles"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>blue, yellow, red, white, green</strong>"
+  },
+  {
+    "countries": [
+      "Sierra Leone"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, white, blue</strong>"
+  },
+  {
+    "countries": [
       "Singapore"
     ],
     "tags": [
@@ -2165,6 +3515,16 @@
     ],
     "image": "",
     "fact": "Flag: <strong>red, white</strong>"
+  },
+  {
+    "countries": [
+      "Sint Maarten"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
   },
   {
     "countries": [
@@ -2188,6 +3548,26 @@
   },
   {
     "countries": [
+      "Solomon Islands"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>blue, green, yellow, white</strong>"
+  },
+  {
+    "countries": [
+      "Somalia"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>blue, white</strong>"
+  },
+  {
+    "countries": [
       "South Africa"
     ],
     "tags": [
@@ -2198,6 +3578,16 @@
   },
   {
     "countries": [
+      "South Georgia and the South Sandwich Islands"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
       "South Korea"
     ],
     "tags": [
@@ -2205,6 +3595,16 @@
     ],
     "image": "",
     "fact": "Flag: <strong>white, red, blue, black</strong>"
+  },
+  {
+    "countries": [
+      "South Sudan"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>black, red, white, blue, green, yellow</strong>"
   },
   {
     "countries": [
@@ -2228,6 +3628,46 @@
   },
   {
     "countries": [
+      "State of Palestine"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Sudan"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, white, black, green</strong>"
+  },
+  {
+    "countries": [
+      "Suriname"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, white, red, yellow</strong>"
+  },
+  {
+    "countries": [
+      "Svalbard and Jan Mayen"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
       "Sweden"
     ],
     "tags": [
@@ -2248,6 +3688,16 @@
   },
   {
     "countries": [
+      "Syria"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, white, black, green</strong>"
+  },
+  {
+    "countries": [
       "Taiwan"
     ],
     "tags": [
@@ -2255,6 +3705,26 @@
     ],
     "image": "",
     "fact": "Flag: <strong>blue, red, white</strong>"
+  },
+  {
+    "countries": [
+      "Tajikistan"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, white, green, yellow</strong>"
+  },
+  {
+    "countries": [
+      "Tanzania"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>blue, yellow, green, black</strong>"
   },
   {
     "countries": [
@@ -2278,6 +3748,66 @@
   },
   {
     "countries": [
+      "Togo"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, yellow, red, white</strong>"
+  },
+  {
+    "countries": [
+      "Tokelau"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Tonga"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, white</strong>"
+  },
+  {
+    "countries": [
+      "Trinidad and Tobago"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, white, black</strong>"
+  },
+  {
+    "countries": [
+      "Tristan da Cunha"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Tunisia"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, white</strong>"
+  },
+  {
+    "countries": [
       "Turkey"
     ],
     "tags": [
@@ -2285,6 +3815,46 @@
     ],
     "image": "",
     "fact": "Flag: <strong>red, white</strong>"
+  },
+  {
+    "countries": [
+      "Turkmenistan"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, white, red</strong>"
+  },
+  {
+    "countries": [
+      "Turks and Caicos Islands"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Tuvalu"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>blue, yellow, white</strong>"
+  },
+  {
+    "countries": [
+      "Türkiye"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
   },
   {
     "countries": [
@@ -2328,6 +3898,16 @@
   },
   {
     "countries": [
+      "United Nations"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
       "United States"
     ],
     "tags": [
@@ -2335,6 +3915,36 @@
     ],
     "image": "",
     "fact": "Flag: <strong>red, white, blue</strong>"
+  },
+  {
+    "countries": [
+      "United States Minor Outlying Islands"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "United States of America"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Unknown"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
   },
   {
     "countries": [
@@ -2348,6 +3958,36 @@
   },
   {
     "countries": [
+      "Uzbekistan"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>blue, white, green, red</strong>"
+  },
+  {
+    "countries": [
+      "Vanuatu"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, red, yellow, black</strong>"
+  },
+  {
+    "countries": [
+      "Venezuela"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>yellow, blue, red</strong>"
+  },
+  {
+    "countries": [
       "Vietnam"
     ],
     "tags": [
@@ -2358,22 +3998,82 @@
   },
   {
     "countries": [
-      "Czech Republic"
+      "Virgin Islands (British)"
     ],
     "tags": [
       "flag"
     ],
     "image": "",
-    "fact": "Flag: <strong>blue, red, white</strong>"
+    "fact": "Flag: <strong>various</strong>"
   },
   {
     "countries": [
-      "UAE"
+      "Virgin Islands (U.S.)"
     ],
     "tags": [
       "flag"
     ],
     "image": "",
-    "fact": "Flag: <strong>green, white, black, red</strong>"
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Wales"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Wallis and Futuna"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Western Sahara"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Yemen"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>red, white, black</strong>"
+  },
+  {
+    "countries": [
+      "Zambia"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, red, black, orange</strong>"
+  },
+  {
+    "countries": [
+      "Zimbabwe"
+    ],
+    "tags": [
+      "flag"
+    ],
+    "image": "",
+    "fact": "Flag: <strong>green, yellow, red, black, white</strong>"
   }
 ]
