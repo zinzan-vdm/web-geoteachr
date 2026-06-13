@@ -1,5 +1,6 @@
 // ─── State ───
 let facts = [];
+let countryCodes = {};
 
 // ─── Darkmode ───
 function initTheme() {
@@ -21,6 +22,11 @@ function toggleTheme() {
   document.documentElement.dataset.theme = next;
   localStorage.setItem('theme', next);
   updateThemeButton(next);
+}
+
+// ─── Get country code for flag ───
+function getCountryCode(countryName) {
+  return countryCodes[countryName] || '';
 }
 
 // ─── Render Cards ───
@@ -63,14 +69,27 @@ function renderFacts(filtered) {
     const content = document.createElement('div');
     content.className = 'fact-content';
 
-    // Country badges
+    // Country badges with flags
     const badges = document.createElement('div');
     badges.className = 'country-badges';
     if (fact.countries && fact.countries.length) {
       for (const country of fact.countries) {
         const span = document.createElement('span');
         span.className = 'badge';
-        span.textContent = country;
+
+        const code = getCountryCode(country);
+        if (code) {
+          const flagWrap = document.createElement('span');
+          flagWrap.className = 'flag-wrap';
+          const flagImg = document.createElement('img');
+          flagImg.className = 'flag-icon';
+          flagImg.src = `assets/flags/${code}.svg`;
+          flagImg.alt = code;
+          flagWrap.appendChild(flagImg);
+          span.appendChild(flagWrap);
+        }
+
+        span.appendChild(document.createTextNode(country));
         badges.appendChild(span);
       }
     }
@@ -139,25 +158,21 @@ function scoreFact(fact, words) {
 
   const total = words.length;
   const matched = countryMatches + tagMatches + textMatches;
-  if (matched === 0) return null; // no match
+  if (matched === 0) return null;
 
-  // Determine tier: 0=country, 1=tag, 2=text
   let tier;
   if (countryMatches > 0) tier = 0;
   else if (tagMatches > 0) tier = 1;
   else tier = 2;
 
-  // Base score: percentage of words matched
   let score = matched / total;
 
-  // Proximity bonus: if multiple words matched in text, reward closeness
   if (textPositions.length > 1) {
     textPositions.sort((a, b) => a - b);
     const avgGap = textPositions.reduce((sum, pos, i) => {
       if (i === 0) return sum;
       return sum + (pos - textPositions[i - 1]);
     }, 0) / (textPositions.length - 1);
-    // Bonus for words within 50 chars of each other
     if (avgGap < 50) score += 0.2;
     else if (avgGap < 100) score += 0.1;
   }
@@ -165,28 +180,69 @@ function scoreFact(fact, words) {
   return { tier, score, index: fact._index };
 }
 
+// ─── Multi-filter: split on `;`, require ALL parts to match ───
 function filterFacts(query) {
   if (!query || query.trim() === '') return facts;
 
-  const words = query.trim().toLowerCase().split(/\s+/).filter(w => w.length > 0);
-  if (words.length === 0) return facts;
+  // Split by semicolon for multi-filter
+  const parts = query.split(';').map(p => p.trim()).filter(p => p.length > 0);
+  if (parts.length === 0) return facts;
 
-  const results = [];
+  // For each part, get matching fact indices
+  const matchSets = parts.map(part => {
+    const words = part.toLowerCase().split(/\s+/).filter(w => w.length > 0);
+    if (words.length === 0) return new Set(facts.map((_, i) => i));
 
-  for (let i = 0; i < facts.length; i++) {
-    facts[i]._index = i; // track original order for stable tiebreaking
-    const result = scoreFact(facts[i], words);
-    if (result) results.push(result);
-  }
+    const results = [];
+    for (let i = 0; i < facts.length; i++) {
+      facts[i]._index = i;
+      const result = scoreFact(facts[i], words);
+      if (result) {
+        results.push({ ...result, index: i });
+      }
+    }
 
-  // Sort: tier ASC, score DESC, index ASC (stable)
-  results.sort((a, b) => {
-    if (a.tier !== b.tier) return a.tier - b.tier;
-    if (b.score !== a.score) return b.score - a.score;
-    return a.index - b.index;
+    // Sort and return just the indices
+    results.sort((a, b) => {
+      if (a.tier !== b.tier) return a.tier - b.tier;
+      if (b.score !== a.score) return b.score - a.score;
+      return a.index - b.index;
+    });
+
+    return new Set(results.map(r => r.index));
   });
 
-  return results.map(r => facts[r.index]);
+  // Intersection: facts matching ALL parts
+  const intersection = new Set();
+  if (matchSets.length > 0) {
+    // Find the smallest set first for efficiency
+    const [first, ...rest] = matchSets.sort((a, b) => a.size - b.size);
+    for (const idx of first) {
+      if (rest.every(s => s.has(idx))) {
+        intersection.add(idx);
+      }
+    }
+  }
+
+  // For single part (no semicolons), use the scored sort
+  if (parts.length === 1) {
+    // Re-score and sort single-part queries
+    const words = parts[0].toLowerCase().split(/\s+/).filter(w => w.length > 0);
+    const results = [];
+    for (const idx of intersection) {
+      const result = scoreFact(facts[idx], words);
+      if (result) results.push(result);
+    }
+    results.sort((a, b) => {
+      if (a.tier !== b.tier) return a.tier - b.tier;
+      if (b.score !== a.score) return b.score - a.score;
+      return a.index - b.index;
+    });
+    return results.map(r => facts[r.index]);
+  }
+
+  // For multi-part queries, return in original array order
+  return Array.from(intersection).sort((a, b) => a - b).map(i => facts[i]);
 }
 
 function onSearchInput() {
@@ -206,13 +262,11 @@ function focusSearch() {
 }
 
 function handleGlobalKeydown(e) {
-  // '/' focuses search (prevent typing it)
   if (e.key === '/' && e.target.tagName !== 'INPUT' && e.target.tagName !== 'TEXTAREA') {
     e.preventDefault();
     focusSearch();
     return;
   }
-  // Enter focuses search when not already in an input
   if (e.key === 'Enter' && e.target.tagName !== 'INPUT' && e.target.tagName !== 'TEXTAREA') {
     e.preventDefault();
     focusSearch();
@@ -224,15 +278,11 @@ function handleGlobalKeydown(e) {
 async function init() {
   initTheme();
 
-  // Theme toggle event
   const toggleBtn = document.getElementById('theme-toggle');
   if (toggleBtn) toggleBtn.addEventListener('click', toggleTheme);
 
-  // Search input event
   const searchInput = document.getElementById('search-input');
   if (searchInput) searchInput.addEventListener('input', onSearchInput);
-
-  // Escape in search input clears filter
   if (searchInput) searchInput.addEventListener('keydown', function (e) {
     if (e.key === 'Escape') {
       this.value = '';
@@ -241,8 +291,15 @@ async function init() {
     }
   });
 
-  // Global keyboard shortcuts
   document.addEventListener('keydown', handleGlobalKeydown);
+
+  // Fetch country codes
+  try {
+    const res = await fetch('country-codes.json');
+    if (res.ok) countryCodes = await res.json();
+  } catch (err) {
+    console.warn('Failed to load country-codes.json:', err);
+  }
 
   // Fetch facts
   try {
@@ -259,7 +316,6 @@ async function init() {
     return;
   }
 
-  // Initial render
   renderFacts(facts);
 }
 
