@@ -141,22 +141,34 @@ main {
   border-radius: 8px;
   overflow: visible;
   position: relative;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
   cursor: zoom-in;
   z-index: 1;
 }
 
-.fact-image-wrap:hover {
-  transform: scale(2.5);
-  box-shadow: 0 8px 32px rgba(0,0,0,0.35);
+/* Zoom overlay — native resolution, fixed position, full screen max */
+.fact-image-zoom {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0,0,0,0.7);
+  z-index: 9999;
   cursor: zoom-out;
-  z-index: 10;
-  border-radius: 6px;
+  align-items: center;
+  justify-content: center;
 }
 
-.fact-image-wrap:hover .fact-image {
+.fact-image-zoom img {
+  max-width: 95vw;
+  max-height: 95vh;
+  width: auto;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 8px 40px rgba(0,0,0,0.5);
   object-fit: contain;
-  border-radius: 6px;
+  display: block;
 }
 
 .fact-content {
@@ -249,6 +261,12 @@ main {
 
 .fact-text strong {
   color: var(--accent);
+}
+
+.usefulness {
+  color: var(--muted);
+  font-size: 0.8rem;
+  font-weight: 400;
 }
 
 /* ─── Responsive ─── */
