@@ -1353,7 +1353,7 @@
       "eastern-europe",
       "coverage"
     ],
-    "image": "assets/fact-images/0b27d880-5f98d831.jpg",
+    "image": "assets/fact-images/0b27d880-18a60e15.jpg",
     "fact": "The majority of Bosnia's coverage is <strong>small cam</strong> \u2014 a <strong>huge blur</strong> with very low camera quality, far more common than in neighboring countries.",
     "usefulness": 7
   },
@@ -2121,10 +2121,10 @@
     ],
     "tags": [
       "latin-america",
-      "google-car"
+      "street-markings"
     ],
-    "image": "assets/fact-images/e12d20ae-40017546.jpg",
-    "fact": "A large part of <strong>Chile</strong> can be recognized by the <strong>white rear</strong> of the <strong>Google car</strong> being visible.",
+    "image": "assets/fact-images/1bbcd84b-652f0055.jpg",
+    "fact": "<strong>Chile</strong> sometimes has all \u2014 <strong>yellow road lines</strong>. In South America, this is <strong>unique</strong> to <strong>Chile</strong>.",
     "usefulness": 8
   },
   {
@@ -2133,11 +2133,11 @@
     ],
     "tags": [
       "latin-america",
-      "street-markings"
+      "google-car"
     ],
-    "image": "assets/fact-images/1bbcd84b-652f0055.jpg",
-    "fact": "<strong>Chile</strong> sometimes has all \u2014 <strong>yellow road lines</strong>. In South America, this is <strong>unique</strong> to <strong>Chile</strong>.",
-    "usefulness": 8
+    "image": "assets/fact-images/e12d20ae-40017546.jpg",
+    "fact": "A large part of <strong>Chile</strong> can be recognized by the <strong>white rear</strong> of the <strong>Google car</strong> being visible.",
+    "usefulness": 0
   },
   {
     "countries": [
@@ -2365,18 +2365,6 @@
     ],
     "tags": [
       "latin-america",
-      "sign-posts"
-    ],
-    "image": "assets/fact-images/15a61cfb-33bd691d.jpg",
-    "fact": "In <strong>Colombia</strong>, it's <strong>common</strong> to see crosses on the backs of <strong>road signs</strong>",
-    "usefulness": 7
-  },
-  {
-    "countries": [
-      "Colombia"
-    ],
-    "tags": [
-      "latin-america",
       "poles"
     ],
     "image": "assets/fact-images/8d0e0974-1e5c0fbf.jpg",
@@ -2439,6 +2427,18 @@
     ],
     "image": "assets/fact-images/311d4f8c-8b39cdd8.jpg",
     "fact": "In <strong>Colombia</strong>, especially in rural areas, these rudimentary wooden fences are <strong>common</strong>",
+    "usefulness": 0
+  },
+  {
+    "countries": [
+      "Colombia"
+    ],
+    "tags": [
+      "latin-america",
+      "sign-posts"
+    ],
+    "image": "assets/fact-images/15a61cfb-33bd691d.jpg",
+    "fact": "In <strong>Colombia</strong>, it's <strong>common</strong> to see crosses on the backs of <strong>road signs</strong>",
     "usefulness": 0
   },
   {
@@ -2713,7 +2713,7 @@
       "western-europe",
       "driving-direction"
     ],
-    "image": "assets/fact-images/62720ed4-bbc1f8b8.jpg",
+    "image": "assets/fact-images/62720ed4-e4cf41eb.jpg",
     "fact": "Cyprus looks like Greece but drives on the <strong>left-hand side</strong> of the road \u2014 the only country with Greek-style meta where this happens.",
     "usefulness": 9
   },
@@ -2908,8 +2908,8 @@
       "nordics",
       "street-sign"
     ],
-    "image": "assets/fact-images/027edd5d-3f070c30.jpg",
-    "fact": "<strong>Danish direction signs</strong> are typically <strong>white</strong> with a metal <strong>border</strong> around them.",
+    "image": "assets/fact-images/064717b8-8868b84f.jpg",
+    "fact": "<strong>Directional signs</strong> in <strong>Denmark</strong> are <strong>unique</strong> with their <strong>white background</strong> and <strong>red</strong> writing. This color scheme is a clear indicator of being in <strong>Denmark</strong>.",
     "usefulness": 7
   },
   {
@@ -2920,9 +2920,9 @@
       "nordics",
       "street-sign"
     ],
-    "image": "assets/fact-images/064717b8-8868b84f.jpg",
-    "fact": "<strong>Directional signs</strong> in <strong>Denmark</strong> are <strong>unique</strong> with their <strong>white background</strong> and <strong>red</strong> writing. This color scheme is a clear indicator of being in <strong>Denmark</strong>.",
-    "usefulness": 7
+    "image": "assets/fact-images/027edd5d-3f070c30.jpg",
+    "fact": "<strong>Danish direction signs</strong> are typically <strong>white</strong> with a metal <strong>border</strong> around them.",
+    "usefulness": 0
   },
   {
     "countries": [
@@ -3663,18 +3663,6 @@
       "Finland"
     ],
     "tags": [
-      "nordics",
-      "street-name"
-    ],
-    "image": "assets/fact-images/ed26a1b0-4adc355a.jpg",
-    "fact": "<strong>Finnish</strong> street names typically end in \"...katu\" or \"...ntie\".",
-    "usefulness": 8
-  },
-  {
-    "countries": [
-      "Finland"
-    ],
-    "tags": [
       "domain"
     ],
     "image": "",
@@ -3691,6 +3679,18 @@
     ],
     "image": "assets/fact-images/6a82647f-48169ec3.jpg",
     "fact": "<strong>Finnish directional signs</strong> on highways can be <strong>blue</strong> or <strong>green</strong> colored.",
+    "usefulness": 0
+  },
+  {
+    "countries": [
+      "Finland"
+    ],
+    "tags": [
+      "nordics",
+      "street-name"
+    ],
+    "image": "assets/fact-images/ed26a1b0-4adc355a.jpg",
+    "fact": "<strong>Finnish</strong> street names typically end in \"...katu\" or \"...ntie\".",
     "usefulness": 0
   },
   {
@@ -4156,18 +4156,6 @@
       "Greece"
     ],
     "tags": [
-      "western-europe",
-      "language"
-    ],
-    "image": "assets/fact-images/bf38d7c3-9210185d.jpg",
-    "fact": "The <strong>Greek</strong> language has a <strong>unique alphabet</strong>. It can look a bit like Cyrillic, but generally has softer shaped letters.",
-    "usefulness": 8
-  },
-  {
-    "countries": [
-      "Greece"
-    ],
-    "tags": [
       "domain"
     ],
     "image": "",
@@ -4231,6 +4219,18 @@
     ],
     "image": "assets/fact-images/6dc7e360-59f1565c.jpg",
     "fact": "Taxis in <strong>Greece</strong> have <strong>yellow license plates</strong>. All other vehicles have standard EU <strong>white license plates</strong>.",
+    "usefulness": 0
+  },
+  {
+    "countries": [
+      "Greece"
+    ],
+    "tags": [
+      "western-europe",
+      "language"
+    ],
+    "image": "assets/fact-images/bf38d7c3-9210185d.jpg",
+    "fact": "The <strong>Greek</strong> language has a <strong>unique alphabet</strong>. It can look a bit like Cyrillic, but generally has softer shaped letters.",
     "usefulness": 0
   },
   {
@@ -4844,18 +4844,6 @@
     ],
     "tags": [
       "nordics",
-      "street-sign"
-    ],
-    "image": "assets/fact-images/0b73d465-e3c47703.jpg",
-    "fact": "<strong>Iceland</strong> has these <strong>yellow</strong> and <strong>black directional signs</strong>. Some signs, especially in cities, can have a <strong>white background</strong> instead.",
-    "usefulness": 9
-  },
-  {
-    "countries": [
-      "Iceland"
-    ],
-    "tags": [
-      "nordics",
       "bollards"
     ],
     "image": "assets/fact-images/00e5fcd3-bd033035.jpg",
@@ -4882,6 +4870,18 @@
     ],
     "image": "assets/flags/is.svg",
     "fact": "Flag: <strong>blue, red, white</strong>",
+    "usefulness": 0
+  },
+  {
+    "countries": [
+      "Iceland"
+    ],
+    "tags": [
+      "nordics",
+      "street-sign"
+    ],
+    "image": "assets/fact-images/0b73d465-e3c47703.jpg",
+    "fact": "<strong>Iceland</strong> has these <strong>yellow</strong> and <strong>black directional signs</strong>. Some signs, especially in cities, can have a <strong>white background</strong> instead.",
     "usefulness": 0
   },
   {
@@ -5230,18 +5230,6 @@
     ],
     "tags": [
       "western-europe",
-      "street-sign"
-    ],
-    "image": "assets/fact-images/8d829980-31afa50d.jpg",
-    "fact": "<strong>Ireland</strong> stands out as it is the <strong>only</strong> place in Europe with <strong>yellow</strong>, diamond shaped <strong>warning signs</strong>.",
-    "usefulness": 7
-  },
-  {
-    "countries": [
-      "Ireland"
-    ],
-    "tags": [
-      "western-europe",
       "street-markings"
     ],
     "image": "assets/fact-images/f04acb66-e87e66fb.jpg",
@@ -5268,6 +5256,18 @@
     ],
     "image": "assets/flags/ie.svg",
     "fact": "Flag: <strong>green, white, orange</strong>",
+    "usefulness": 0
+  },
+  {
+    "countries": [
+      "Ireland"
+    ],
+    "tags": [
+      "western-europe",
+      "street-sign"
+    ],
+    "image": "assets/fact-images/8d829980-31afa50d.jpg",
+    "fact": "<strong>Ireland</strong> stands out as it is the <strong>only</strong> place in Europe with <strong>yellow</strong>, diamond shaped <strong>warning signs</strong>.",
     "usefulness": 0
   },
   {
@@ -5717,18 +5717,6 @@
       "Kazakhstan"
     ],
     "tags": [
-      "rest-of-asia",
-      "google-car"
-    ],
-    "image": "assets/fact-images/20aa7c7a-55512a31.jpg",
-    "fact": "Kazakhstan has a <strong>white Google truck</strong> that is always visible when panning down, unless blurred \u2014 but the <strong>shape</strong> is still distinguishable.",
-    "usefulness": 9
-  },
-  {
-    "countries": [
-      "Kazakhstan"
-    ],
-    "tags": [
       "domain"
     ],
     "image": "",
@@ -5744,6 +5732,18 @@
     ],
     "image": "assets/flags/kz.svg",
     "fact": "Flag: <strong>blue, yellow</strong>",
+    "usefulness": 0
+  },
+  {
+    "countries": [
+      "Kazakhstan"
+    ],
+    "tags": [
+      "rest-of-asia",
+      "google-car"
+    ],
+    "image": "assets/fact-images/20aa7c7a-d529953e.jpg",
+    "fact": "Kazakhstan has a <strong>white Google truck</strong> that is always visible when panning down, unless blurred \u2014 but the <strong>shape</strong> is still distinguishable.",
     "usefulness": 0
   },
   {
@@ -5867,8 +5867,8 @@
       "rest-of-asia",
       "google-car"
     ],
-    "image": "assets/fact-images/00286c24-4e1b2b82.jpg",
-    "fact": "<strong>Kyrgyzstan</strong> has the bars under the car visible as well as <strong>black</strong>/<strong>white <strong>side</strong> mirrors</strong>.",
+    "image": "assets/fact-images/acefdeaf-bba58136.jpg",
+    "fact": "In south \u2014 western <strong>Kyrgyzstan</strong>, around the city of Osh, if you look in the <strong>left side</strong>-view mirror, you will see approximately 90% of the <strong>Kyrgyzstan silver</strong> car being reflected. In the remainder of <strong>Kyrgyzstan</strong>, you will <strong>only</strong> see approximately 60% of the <strong>Kyrgyzstan silver</strong> car being reflected.",
     "usefulness": 7
   },
   {
@@ -5901,8 +5901,8 @@
       "rest-of-asia",
       "google-car"
     ],
-    "image": "assets/fact-images/acefdeaf-bba58136.jpg",
-    "fact": "In south \u2014 western <strong>Kyrgyzstan</strong>, around the city of Osh, if you look in the <strong>left side</strong>-view mirror, you will see approximately 90% of the <strong>Kyrgyzstan silver</strong> car being reflected. In the remainder of <strong>Kyrgyzstan</strong>, you will <strong>only</strong> see approximately 60% of the <strong>Kyrgyzstan silver</strong> car being reflected.",
+    "image": "assets/fact-images/00286c24-4e1b2b82.jpg",
+    "fact": "<strong>Kyrgyzstan</strong> has the bars under the car visible as well as <strong>black</strong>/<strong>white <strong>side</strong> mirrors</strong>.",
     "usefulness": 0
   },
   {
@@ -6137,7 +6137,7 @@
       "middle-east",
       "coverage"
     ],
-    "image": "assets/fact-images/e45d5140-48dc6fd7.jpg",
+    "image": "assets/fact-images/e45d5140-0fe9826a.jpg",
     "fact": "Lebanon has <strong>crap cam</strong> \u2014 very <strong>low quality camera</strong> coverage throughout the country.",
     "usefulness": 7
   },
@@ -6285,7 +6285,7 @@
       "western-europe",
       "license-plate"
     ],
-    "image": "assets/fact-images/b01e2dba-e0f918a4.jpg",
+    "image": "assets/fact-images/b01e2dba-63f15b7d.jpg",
     "fact": "Liechtenstein uses <strong>black license plates</strong> with a <strong>red element</strong> on them \u2014 unlike Switzerland's standard European white plates.",
     "usefulness": 8
   },
@@ -6607,10 +6607,10 @@
     ],
     "tags": [
       "south-southeast-asia",
-      "sign-posts"
+      "poles"
     ],
-    "image": "assets/fact-images/6775f01e-17051e45.jpg",
-    "fact": "<strong>Malaysia</strong> is notable for its many <strong>black</strong> and <strong>white striped street sign</strong> poles, a feature that is <strong>rare</strong> globally.",
+    "image": "assets/fact-images/a542a3d4-1651a7fa.jpg",
+    "fact": "In mainland <strong>Malaysia</strong>, <strong>utility poles</strong> often have <strong>black</strong> rectangles with <strong>white lettering</strong>",
     "usefulness": 7
   },
   {
@@ -6633,18 +6633,6 @@
     ],
     "image": "assets/flags/my.svg",
     "fact": "Flag: <strong>blue, red, white, yellow</strong>",
-    "usefulness": 0
-  },
-  {
-    "countries": [
-      "Malaysia"
-    ],
-    "tags": [
-      "south-southeast-asia",
-      "poles"
-    ],
-    "image": "assets/fact-images/a542a3d4-1651a7fa.jpg",
-    "fact": "In mainland <strong>Malaysia</strong>, <strong>utility poles</strong> often have <strong>black</strong> rectangles with <strong>white lettering</strong>",
     "usefulness": 0
   },
   {
@@ -6693,6 +6681,18 @@
     ],
     "image": "assets/fact-images/fa1d2a81-6cc9de2b.jpg",
     "fact": "In <strong>Malaysia</strong>, the acronym 'AWAS' is commonly seen on road <strong>warning signs</strong>, signifying their road safety system",
+    "usefulness": 0
+  },
+  {
+    "countries": [
+      "Malaysia"
+    ],
+    "tags": [
+      "south-southeast-asia",
+      "sign-posts"
+    ],
+    "image": "assets/fact-images/6775f01e-17051e45.jpg",
+    "fact": "<strong>Malaysia</strong> is notable for its many <strong>black</strong> and <strong>white striped street sign</strong> poles, a feature that is <strong>rare</strong> globally.",
     "usefulness": 0
   },
   {
@@ -7047,18 +7047,6 @@
       "latin-america",
       "poles"
     ],
-    "image": "assets/fact-images/9c2b3690-fb791240.jpg",
-    "fact": "In <strong>Mexico</strong>, a <strong>common</strong> type of <strong>utility pole</strong> resembles the shape of a crucifix",
-    "usefulness": 9
-  },
-  {
-    "countries": [
-      "Mexico"
-    ],
-    "tags": [
-      "latin-america",
-      "poles"
-    ],
     "image": "assets/fact-images/8ff7cd38-81cd1398.jpg",
     "fact": "Octagonal shaped <strong>utility poles</strong> are <strong>common</strong> in <strong>Mexico</strong>.",
     "usefulness": 9
@@ -7083,6 +7071,18 @@
     ],
     "image": "assets/flags/mx.svg",
     "fact": "Flag: <strong>green, white, red</strong>",
+    "usefulness": 0
+  },
+  {
+    "countries": [
+      "Mexico"
+    ],
+    "tags": [
+      "latin-america",
+      "poles"
+    ],
+    "image": "assets/fact-images/9c2b3690-fb791240.jpg",
+    "fact": "In <strong>Mexico</strong>, a <strong>common</strong> type of <strong>utility pole</strong> resembles the shape of a crucifix",
     "usefulness": 0
   },
   {
@@ -7437,7 +7437,7 @@
       "africa",
       "google-car"
     ],
-    "image": "assets/fact-images/266b09a5-3fdb7c20.jpg",
+    "image": "assets/fact-images/266b09a5-a8712cf0.jpg",
     "fact": "Namibia could only ever be identified by the <strong>white truck</strong> visible when panning down \u2014 the Google car is a white pickup truck.",
     "usefulness": 9
   },
@@ -7493,7 +7493,7 @@
       "south-southeast-asia",
       "coverage"
     ],
-    "image": "assets/fact-images/0b27d880-d476070d.jpg",
+    "image": "assets/fact-images/0b27d880-b432bd9f.jpg",
     "fact": "Nepal has <strong>100% crap cam</strong> coverage (except Trekker) \u2014 extremely <strong>low quality</strong> camera with heavy blur on every frame.",
     "usefulness": 9
   },
@@ -7617,10 +7617,10 @@
     ],
     "tags": [
       "oceania",
-      "chevrons"
+      "bollards"
     ],
-    "image": "assets/fact-images/f4f96f34-7c0e532c.jpg",
-    "fact": "<strong>Chevrons</strong> in <strong>New Zealand</strong> are <strong>black</strong> \u2014 on-<strong>white</strong> colored with a <strong>black outline</strong>.",
+    "image": "assets/fact-images/ff2b7d72-866376c4.jpg",
+    "fact": "In <strong>New Zealand</strong>, <strong>bollards</strong> have a <strong>red strip</strong> around the <strong>upper</strong> part of the <strong>bollard</strong>",
     "usefulness": 8
   },
   {
@@ -7629,11 +7629,11 @@
     ],
     "tags": [
       "oceania",
-      "bollards"
+      "chevrons"
     ],
-    "image": "assets/fact-images/ff2b7d72-866376c4.jpg",
-    "fact": "In <strong>New Zealand</strong>, <strong>bollards</strong> have a <strong>red strip</strong> around the <strong>upper</strong> part of the <strong>bollard</strong>",
-    "usefulness": 8
+    "image": "assets/fact-images/f4f96f34-7c0e532c.jpg",
+    "fact": "<strong>Chevrons</strong> in <strong>New Zealand</strong> are <strong>black</strong> \u2014 on-<strong>white</strong> colored with a <strong>black outline</strong>.",
+    "usefulness": 0
   },
   {
     "countries": [
@@ -7951,18 +7951,6 @@
     ],
     "tags": [
       "eastern-europe",
-      "license-plate"
-    ],
-    "image": "assets/fact-images/4546ed6d-3e30e032.jpg",
-    "fact": "<strong>North Macedonia</strong> has a mixture of some cars with the standard European <strong>license plate</strong> and other cars with the <strong>rare white</strong>, elongated plates.",
-    "usefulness": 7
-  },
-  {
-    "countries": [
-      "North Macedonia"
-    ],
-    "tags": [
-      "eastern-europe",
       "street-sign"
     ],
     "image": "assets/fact-images/4642ba79-849583a5.jpg",
@@ -8013,6 +8001,18 @@
     ],
     "image": "assets/fact-images/979960a4-f0c5831c.jpg",
     "fact": "Macedonian, written in the Cyrillic <strong>script</strong>, includes <strong>road signs</strong> with Latin text, although <strong>most</strong> other signs are exclusively in Cyrillic. <strong>Unique</strong> to Macedonian are the letters '\u0403' and '\u040c'. The letters '\u0409', '\u040a', and '\u040f' are shared <strong>only</strong> with <strong>Serbian</strong>.",
+    "usefulness": 0
+  },
+  {
+    "countries": [
+      "North Macedonia"
+    ],
+    "tags": [
+      "eastern-europe",
+      "license-plate"
+    ],
+    "image": "assets/fact-images/4546ed6d-3e30e032.jpg",
+    "fact": "<strong>North Macedonia</strong> has a mixture of some cars with the standard European <strong>license plate</strong> and other cars with the <strong>rare white</strong>, elongated plates.",
     "usefulness": 0
   },
   {
@@ -8125,18 +8125,6 @@
       "Norway"
     ],
     "tags": [
-      "nordics",
-      "street-sign"
-    ],
-    "image": "assets/fact-images/5cfb5684-983aaa39.jpg",
-    "fact": "<strong>Norway</strong> uses <strong>yellow directional signs</strong>.",
-    "usefulness": 8
-  },
-  {
-    "countries": [
-      "Norway"
-    ],
-    "tags": [
       "domain"
     ],
     "image": "",
@@ -8196,6 +8184,18 @@
     ],
     "tags": [
       "nordics",
+      "street-sign"
+    ],
+    "image": "assets/fact-images/5cfb5684-983aaa39.jpg",
+    "fact": "<strong>Norway</strong> uses <strong>yellow directional signs</strong>.",
+    "usefulness": 0
+  },
+  {
+    "countries": [
+      "Norway"
+    ],
+    "tags": [
+      "nordics",
       "flora"
     ],
     "image": "assets/fact-images/968dfabb-9280d51b.jpg",
@@ -8234,7 +8234,7 @@
       "middle-east",
       "google-car"
     ],
-    "image": "assets/fact-images/96ef2520-ea0f7037.jpg",
+    "image": "assets/fact-images/96ef2520-08ced162.jpg",
     "fact": "In Oman, you can only be <strong>inside the Google truck</strong> \u2014 coverage is entirely from inside the cab, making the <strong>truck</strong> the most useful clue.",
     "usefulness": 9
   },
@@ -8392,7 +8392,7 @@
       "latin-america",
       "google-car"
     ],
-    "image": "assets/fact-images/fc892e81-de227d8a.jpg",
+    "image": "assets/fact-images/fc892e81-f2539556.jpg",
     "fact": "Paraguay was recently added with a <strong>silver Google truck</strong> \u2014 the silver cab is visible when panning down in <strong>generation 4 coverage</strong>.",
     "usefulness": 8
   },
@@ -9465,7 +9465,7 @@
       "western-europe",
       "bollards"
     ],
-    "image": "assets/fact-images/2c7f6d7d-bc07e92b.jpg",
+    "image": "assets/fact-images/2c7f6d7d-863e7c08.jpg",
     "fact": "San Marino has distinctive <strong>bollards</strong> similar to Italy's, along with the iconic <strong>hill with a castle</strong> visible from many locations.",
     "usefulness": 7
   },
@@ -9499,7 +9499,7 @@
       "africa",
       "coverage"
     ],
-    "image": "assets/fact-images/e45d5140-688cdf06.jpg",
+    "image": "assets/fact-images/e45d5140-1db2c512.jpg",
     "fact": "Sao Tome and Principe has <strong>ultra low camera quality</strong> \u2014 extremely <strong>poor resolution</strong> coverage throughout.",
     "usefulness": 7
   },
@@ -9564,23 +9564,11 @@
     ],
     "tags": [
       "africa",
-      "language"
-    ],
-    "image": "assets/fact-images/8c1395a9-0c8483a2.jpg",
-    "fact": "<strong>Senegal</strong>'s official language is <strong>French</strong>.",
-    "usefulness": 8
-  },
-  {
-    "countries": [
-      "Senegal"
-    ],
-    "tags": [
-      "africa",
       "poles"
     ],
     "image": "assets/fact-images/13bab810-9547ab7f.jpg",
     "fact": "As a former <strong>French</strong> colony, <strong>Senegal</strong> has the same ladder \u2014 style poles as parts of France.",
-    "usefulness": 0
+    "usefulness": 8
   },
   {
     "countries": [
@@ -9650,6 +9638,18 @@
     ],
     "image": "assets/fact-images/98670b41-c112548e.jpg",
     "fact": "<strong>Senegal</strong> uses <strong>license plates</strong> with <strong>blue background</strong>.",
+    "usefulness": 0
+  },
+  {
+    "countries": [
+      "Senegal"
+    ],
+    "tags": [
+      "africa",
+      "language"
+    ],
+    "image": "assets/fact-images/8c1395a9-0c8483a2.jpg",
+    "fact": "<strong>Senegal</strong>'s official language is <strong>French</strong>.",
     "usefulness": 0
   },
   {
@@ -10200,18 +10200,6 @@
     ],
     "tags": [
       "rest-of-asia",
-      "poles"
-    ],
-    "image": "assets/fact-images/ec8bf164-4f6888ee.jpg",
-    "fact": "<strong>South Korean utility poles</strong> stand out as they mainly have what resembles a <strong>long</strong>, sharp, pointed spike extending upwards from the <strong>top</strong> of the main pole.",
-    "usefulness": 8
-  },
-  {
-    "countries": [
-      "South Korea"
-    ],
-    "tags": [
-      "rest-of-asia",
       "language"
     ],
     "image": "assets/fact-images/c80c3fed-37162de4.jpg",
@@ -10286,6 +10274,18 @@
     ],
     "image": "assets/fact-images/b401d48e-053e6019.jpg",
     "fact": "<strong>South Korea</strong> and Vietnam are the <strong>only</strong> Asian countries to use <strong>warning signs</strong> featuring a triangle with a <strong>red border</strong> and <strong>yellow</strong> fill.",
+    "usefulness": 0
+  },
+  {
+    "countries": [
+      "South Korea"
+    ],
+    "tags": [
+      "rest-of-asia",
+      "poles"
+    ],
+    "image": "assets/fact-images/ec8bf164-4f6888ee.jpg",
+    "fact": "<strong>South Korean utility poles</strong> stand out as they mainly have what resembles a <strong>long</strong>, sharp, pointed spike extending upwards from the <strong>top</strong> of the main pole.",
     "usefulness": 0
   },
   {
@@ -10422,42 +10422,6 @@
     ],
     "tags": [
       "south-southeast-asia",
-      "license-plate"
-    ],
-    "image": "assets/fact-images/3a14c165-db825933.jpg",
-    "fact": "<strong>Rear license plates</strong> in <strong>Sri Lanka</strong> are <strong>yellow</strong>. <strong>Front license plates</strong> are <strong>white</strong>.",
-    "usefulness": 9
-  },
-  {
-    "countries": [
-      "Sri Lanka"
-    ],
-    "tags": [
-      "south-southeast-asia",
-      "flora"
-    ],
-    "image": "assets/fact-images/681d46b4-9175cc60.jpg",
-    "fact": "<strong>Sri Lanka</strong> has a very <strong>tropical</strong> feel with many <strong>palm trees</strong>. It also can have <strong>distinct</strong> reddish soil. Generally, if you see <strong>palm trees</strong> with few other clues, <strong>Sri Lanka</strong> can be a reasonable guess.",
-    "usefulness": 9
-  },
-  {
-    "countries": [
-      "Sri Lanka"
-    ],
-    "tags": [
-      "south-southeast-asia",
-      "google-car"
-    ],
-    "image": "assets/fact-images/afaa2f6b-92626d7a.jpg",
-    "fact": "<strong>Sri Lanka</strong>'s <strong>Gen 4</strong> coverage uses low \u2014 cam, meaning that (1) objects around you are seen from a <strong>lower</strong> vantage point, (2) roads look wider, (3) the <strong>Google car</strong> generally looks bigger and has a <strong>wide circular</strong> blur.",
-    "usefulness": 9
-  },
-  {
-    "countries": [
-      "Sri Lanka"
-    ],
-    "tags": [
-      "south-southeast-asia",
       "google-car"
     ],
     "image": "assets/fact-images/ee53b5cf-cc54ffbe.jpg",
@@ -10492,10 +10456,34 @@
     ],
     "tags": [
       "south-southeast-asia",
+      "license-plate"
+    ],
+    "image": "assets/fact-images/3a14c165-db825933.jpg",
+    "fact": "<strong>Rear license plates</strong> in <strong>Sri Lanka</strong> are <strong>yellow</strong>. <strong>Front license plates</strong> are <strong>white</strong>.",
+    "usefulness": 0
+  },
+  {
+    "countries": [
+      "Sri Lanka"
+    ],
+    "tags": [
+      "south-southeast-asia",
       "language"
     ],
     "image": "assets/fact-images/2c51e396-1a70a06f.jpg",
     "fact": "Sinhala, the primary language in <strong>Sri Lanka</strong>, has many letters that look like a \"C\" forwards, backwards, or upside down. It appears quite \"curvy\".",
+    "usefulness": 0
+  },
+  {
+    "countries": [
+      "Sri Lanka"
+    ],
+    "tags": [
+      "south-southeast-asia",
+      "flora"
+    ],
+    "image": "assets/fact-images/681d46b4-9175cc60.jpg",
+    "fact": "<strong>Sri Lanka</strong> has a very <strong>tropical</strong> feel with many <strong>palm trees</strong>. It also can have <strong>distinct</strong> reddish soil. Generally, if you see <strong>palm trees</strong> with few other clues, <strong>Sri Lanka</strong> can be a reasonable guess.",
     "usefulness": 0
   },
   {
@@ -10544,6 +10532,18 @@
     ],
     "image": "assets/fact-images/41e2a328-a90d4942.jpg",
     "fact": "<strong>Sri Lanka</strong> uses small <strong>white</strong> and <strong>black</strong> stone <strong>bollards</strong>.",
+    "usefulness": 0
+  },
+  {
+    "countries": [
+      "Sri Lanka"
+    ],
+    "tags": [
+      "south-southeast-asia",
+      "google-car"
+    ],
+    "image": "assets/fact-images/afaa2f6b-92626d7a.jpg",
+    "fact": "<strong>Sri Lanka</strong>'s <strong>Gen 4</strong> coverage uses low \u2014 cam, meaning that (1) objects around you are seen from a <strong>lower</strong> vantage point, (2) roads look wider, (3) the <strong>Google car</strong> generally looks bigger and has a <strong>wide circular</strong> blur.",
     "usefulness": 0
   },
   {
@@ -11023,18 +11023,6 @@
       "Thailand"
     ],
     "tags": [
-      "south-southeast-asia",
-      "bollards"
-    ],
-    "image": "assets/fact-images/1b48915a-0ff86d44.jpg",
-    "fact": "<strong>Thai bollards</strong> have alternating <strong>black</strong> \u2014 and-<strong>white</strong> colors and have a <strong>square</strong> shape.",
-    "usefulness": 8
-  },
-  {
-    "countries": [
-      "Thailand"
-    ],
-    "tags": [
       "domain"
     ],
     "image": "",
@@ -11106,6 +11094,18 @@
     ],
     "tags": [
       "south-southeast-asia",
+      "bollards"
+    ],
+    "image": "assets/fact-images/1b48915a-0ff86d44.jpg",
+    "fact": "<strong>Thai bollards</strong> have alternating <strong>black</strong> \u2014 and-<strong>white</strong> colors and have a <strong>square</strong> shape.",
+    "usefulness": 0
+  },
+  {
+    "countries": [
+      "Thailand"
+    ],
+    "tags": [
+      "south-southeast-asia",
       "milestone-markers"
     ],
     "image": "assets/fact-images/b5e44f7e-2d19a994.jpg",
@@ -11156,7 +11156,7 @@
       "south-southeast-asia",
       "google-car"
     ],
-    "image": "assets/fact-images/aa6c42ba-7b0ea838.jpg",
+    "image": "assets/fact-images/aa6c42ba-5ef96ea1.jpg",
     "fact": "Timor-Leste uses a <strong>gen 4 follow car</strong> \u2014 a <strong>Toyota</strong> in Dili and a <strong>Mazda</strong> further south with a <strong>red plate</strong>.",
     "usefulness": 8
   },
