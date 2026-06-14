@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
 """
 Merge geometas facts into existing facts.json with smart bold formatting.
-Also maps country names to match our country-codes.json.
+Sort all facts by country name alphabetically.
 """
 import json, re, os
 
-# Name mapping: geometas display name -> our facts.json country name
 COUNTRY_NAME_MAP = {
     "United Kingdom": "United Kingdom",
     "Czech Republic": "Czech Republic",
@@ -24,49 +23,45 @@ COUNTRY_NAME_MAP = {
     "Faroe Islands": "Faroe Islands",
     "Greenland": "Greenland",
     "Puerto Rico": "Puerto Rico",
-    "Réunion": "Réunion",
-    "Curaçao": "Curaçao",
-    "U.S. Virgin Islands": "Virgin Islands (U.S.)",
+    "Dominican Republic": "Dominican Republic",
 }
 
 def smart_bold(text):
-    """
-    Bold the most scannable/salient parts of a geo fact.
-    Strategy:
-    - Bold the subject/key identifier (before em dash, colon, period, or 'are'/'is'/'have')
-    - If there's a short identifying phrase at the start, bold it
-    - For comparison facts, bold the unique identifier
-    """
-    # Already has HTML? Skip
     if '<strong>' in text or '<b>' in text:
         return text
-    
-    # Pattern 1: "Subject — description" or "Subject - description"
+
+    # "Subject — description" or "Subject - description"
     m = re.match(r'^(.+?)\s*[—–-]\s*(.*)', text)
     if m:
         subject = m.group(1).strip()
         desc = m.group(2).strip()
         return f"<strong>{subject}</strong> — {desc}"
-    
-    # Pattern 2: "Subject: description"
+
+    # "Subject: description"
     m = re.match(r'^([^:]+):\s*(.*)', text)
-    if m:
+    if m and m.group(1).strip() and len(m.group(1).strip()) < 60:
         subject = m.group(1).strip()
         desc = m.group(2).strip()
         return f"<strong>{subject}:</strong> {desc}"
-    
-    # Pattern 3: "Subject are/have/use/feature/is ..."
-    for word in [' are ', ' have ', ' is ', ' use ', ' feature ', ' typically ']:
+
+    # "In [Country], [subject] [verb]..." → bold the subject
+    m = re.match(r'^(In\s+\w+[^,]*,\s*)([^.]+)', text)
+    if m:
+        prefix = m.group(1)
+        key_info = m.group(2).strip()
+        return f"{prefix}<strong>{key_info}</strong>"
+
+    # "[Subject] [are/have/is/use/feature/typically]..." — bold subject that starts the sentence
+    for word in [' are ', ' have ', ' is ', ' use ', ' feature ', ' typically ', ' often ', ' tend ']:
         idx = text.lower().find(word)
-        if idx and idx < len(text) * 0.4:  # only if early in the sentence
+        if idx and idx < len(text) * 0.35:
             subject = text[:idx]
             rest = text[idx:]
             return f"<strong>{subject}</strong>{rest}"
-    
-    # Pattern 4: Bold the first 3-5 key words (majority of the identifying info)
+
+    # Bold first few key identifying words
     words = text.split()
     if len(words) >= 4:
-        # Find a good break point - try to keep it under 60 chars
         bold_end = 0
         char_count = 0
         for i, w in enumerate(words):
@@ -80,88 +75,76 @@ def smart_bold(text):
         rest = ' '.join(words[bold_end:])
         if rest:
             return f"<strong>{bold_part}</strong> {rest}"
-    
+
     return f"<strong>{text}</strong>"
 
 
 def main():
-    # Read current facts.json (flag facts)
     facts_path = '/opt/hermes-agents/arthur/home/web-geoteachr/facts.json'
+
     with open(facts_path) as f:
         flag_facts = json.load(f)
-    
-    print(f"Current facts.json: {len(flag_facts)} flag facts")
-    
-    # Read scraped geometas facts
+
+    print(f"Current facts.json: {len(flag_facts)} facts (expected: flag facts only)")
+
     with open('/tmp/all_geometas_facts.json') as f:
         scraped = json.load(f)
-    
+
     raw_facts = scraped.get('facts', [])
     errors = scraped.get('errors', [])
-    
+
     print(f"Scraped facts: {len(raw_facts)}")
     print(f"Errors: {len(errors)}")
     if errors:
-        for e in errors[:10]:
+        for e in errors[:15]:
             print(f"  - {e}")
-    
-    # Apply name mapping and bold formatting
+
+    # Apply name mapping, bold formatting, deduplicate tags
     new_facts = []
-    skipped = 0
     for fact in raw_facts:
         country = fact['countries'][0]
-        mapped_country = COUNTRY_NAME_MAP.get(country, country)
-        
-        # Apply bold formatting
+        mapped = COUNTRY_NAME_MAP.get(country, country)
+        fact['countries'] = [mapped]
         fact['fact'] = smart_bold(fact['fact'])
-        
-        # Update country name
-        fact['countries'] = [mapped_country]
-        
+        # Deduplicate tags
+        seen = set()
+        unique_tags = []
+        for tag in fact.get('tags', []):
+            if tag not in seen:
+                seen.add(tag)
+                unique_tags.append(tag)
+        fact['tags'] = unique_tags
         new_facts.append(fact)
-    
-    # Check which countries have both flag and geometas facts
-    flag_countries = set()
-    for f in flag_facts:
-        for c in f.get('countries', []):
-            flag_countries.add(c)
-    
-    geo_countries = set()
+
+    # Check per-country counts
+    geo_counts = {}
     for f in new_facts:
-        for c in f.get('countries', []):
-            geo_countries.add(c)
-    
-    overlap = flag_countries & geo_countries
-    only_flag = flag_countries - geo_countries
-    only_geo = geo_countries - flag_countries
-    
-    print(f"\nCountries in both: {len(overlap)}")
-    print(f"Countries only in flags: {len(only_flag)}")
-    print(f"Countries only in geometas: {len(only_geo)}")
-    
-    # Merge: flag facts first, then geometas facts
+        c = f['countries'][0]
+        geo_counts[c] = geo_counts.get(c, 0) + 1
+    print(f"\nCountries with geometas facts: {len(geo_counts)}")
+    for c in sorted(geo_counts.keys()):
+        print(f"  {c}: {geo_counts[c]} facts")
+
+    # Merge and sort: all facts sorted by country name alphabetically
     all_facts = flag_facts + new_facts
-    
+    all_facts.sort(key=lambda f: (f['countries'][0].lower(), f.get('fact', '')))
+
     print(f"\nTotal facts after merge: {len(all_facts)}")
-    
-    # Write updated facts.json
+    print(f"Sorted alphabetically by country name ✓")
+
     with open(facts_path, 'w') as f:
         json.dump(all_facts, f, indent=2)
-    
+
     print(f"Written to {facts_path}")
-    
-    # Also save a summary
+
     summary = {
         'flag_facts': len(flag_facts),
         'geometas_facts': len(new_facts),
         'total': len(all_facts),
-        'errors': errors,
-        'countries_with_geometas': sorted(list(geo_countries)),
+        'countries_with_geometas': sorted(list(geo_counts.keys())),
     }
     with open('/tmp/merge_summary.json', 'w') as f:
         json.dump(summary, f, indent=2)
-    
-    print(f"Summary written to /tmp/merge_summary.json")
 
 
 if __name__ == '__main__':
