@@ -34,15 +34,19 @@ python3 -m http.server 8080
 | Category | Count |
 |----------|-------|
 | Flag facts (colors) | 251 |
-| Geo identification facts | 556 |
+| Geo identification facts | 568 |
 | Domain name extensions (ccTLDs) | 267 |
-| **Total** | **1,074** |
+| **Total** | **1,086** |
 | Country flag SVGs | 249 |
-| Fact images | 556 |
+| Fact images | 568 |
 
 Each geo fact includes a **region tag** (`nordics`, `south-southeast-asia`, etc.)
 and one or more **category tags** (`bollards`, `street-sign`, `license-plate`,
 `language`, `google-car`...). Images are stored locally in `assets/fact-images/`.
+
+Facts are sorted by **usefulness** (0–10) within each country based on community
+survey data from Zigzag's "Best Meta for Every Country" video. Each fact shows
+its usefulness score in muted text — higher scores are the most reliable tells.
 
 ## Sources
 
