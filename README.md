@@ -27,6 +27,8 @@ Or serve directly with any static server:
 python3 -m http.server 8080
 ```
 
+👉 **Live at** [zinzan-vdm.github.io/web-geoteachr](https://zinzan-vdm.github.io/web-geoteachr/)
+
 ## Data
 
 | Category | Count |
