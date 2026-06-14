@@ -1250,6 +1250,18 @@
   },
   {
     "countries": [
+      "Bosnia and Herzegovina"
+    ],
+    "tags": [
+      "eastern-europe",
+      "coverage"
+    ],
+    "image": "assets/fact-images/0b27d880-18a60e15.jpg",
+    "fact": "The majority of Bosnia's coverage is <strong>small cam</strong> \u2014 a <strong>huge blur</strong> with very low camera quality, far more common than in neighboring countries.",
+    "usefulness": 7
+  },
+  {
+    "countries": [
       "Botswana"
     ],
     "tags": [
@@ -2458,6 +2470,18 @@
     ],
     "image": "assets/flags/cw.svg",
     "fact": "Flag: <strong>various</strong>"
+  },
+  {
+    "countries": [
+      "Cyprus"
+    ],
+    "tags": [
+      "western-europe",
+      "driving-direction"
+    ],
+    "image": "assets/fact-images/62720ed4-e4cf41eb.jpg",
+    "fact": "Cyprus looks like Greece but drives on the <strong>left-hand side</strong> of the road \u2014 the only country with Greek-style meta where this happens.",
+    "usefulness": 9
   },
   {
     "countries": [
@@ -5216,6 +5240,18 @@
   },
   {
     "countries": [
+      "Kazakhstan"
+    ],
+    "tags": [
+      "rest-of-asia",
+      "google-car"
+    ],
+    "image": "assets/fact-images/20aa7c7a-d529953e.jpg",
+    "fact": "Kazakhstan has a <strong>white Google truck</strong> that is always visible when panning down, unless blurred \u2014 but the <strong>shape</strong> is still distinguishable.",
+    "usefulness": 9
+  },
+  {
+    "countries": [
       "Kenya"
     ],
     "tags": [
@@ -5586,6 +5622,18 @@
   },
   {
     "countries": [
+      "Lebanon"
+    ],
+    "tags": [
+      "middle-east",
+      "coverage"
+    ],
+    "image": "assets/fact-images/e45d5140-0fe9826a.jpg",
+    "fact": "Lebanon has <strong>crap cam</strong> \u2014 very <strong>low quality camera</strong> coverage throughout the country.",
+    "usefulness": 7
+  },
+  {
+    "countries": [
       "Lesotho"
     ],
     "tags": [
@@ -5707,6 +5755,18 @@
     ],
     "image": "assets/flags/li.svg",
     "fact": "Flag: <strong>blue, red</strong>"
+  },
+  {
+    "countries": [
+      "Liechtenstein"
+    ],
+    "tags": [
+      "western-europe",
+      "license-plate"
+    ],
+    "image": "assets/fact-images/b01e2dba-63f15b7d.jpg",
+    "fact": "Liechtenstein uses <strong>black license plates</strong> with a <strong>red element</strong> on them \u2014 unlike Switzerland's standard European white plates.",
+    "usefulness": 8
   },
   {
     "countries": [
@@ -6751,6 +6811,18 @@
   },
   {
     "countries": [
+      "Namibia"
+    ],
+    "tags": [
+      "africa",
+      "google-car"
+    ],
+    "image": "assets/fact-images/266b09a5-a8712cf0.jpg",
+    "fact": "Namibia could only ever be identified by the <strong>white truck</strong> visible when panning down \u2014 the Google car is a white pickup truck.",
+    "usefulness": 9
+  },
+  {
+    "countries": [
       "Nauru"
     ],
     "tags": [
@@ -6788,6 +6860,18 @@
     ],
     "image": "assets/flags/np.svg",
     "fact": "Flag: <strong>crimson, blue, white</strong>"
+  },
+  {
+    "countries": [
+      "Nepal"
+    ],
+    "tags": [
+      "south-southeast-asia",
+      "coverage"
+    ],
+    "image": "assets/fact-images/0b27d880-b432bd9f.jpg",
+    "fact": "Nepal has <strong>100% crap cam</strong> coverage (except Trekker) \u2014 extremely <strong>low quality</strong> camera with heavy blur on every frame.",
+    "usefulness": 9
   },
   {
     "countries": [
@@ -7457,6 +7541,18 @@
   },
   {
     "countries": [
+      "Oman"
+    ],
+    "tags": [
+      "middle-east",
+      "google-car"
+    ],
+    "image": "assets/fact-images/96ef2520-08ced162.jpg",
+    "fact": "In Oman, you can only be <strong>inside the Google truck</strong> \u2014 coverage is entirely from inside the cab, making the <strong>truck</strong> the most useful clue.",
+    "usefulness": 9
+  },
+  {
+    "countries": [
       "Pakistan"
     ],
     "tags": [
@@ -7587,6 +7683,18 @@
     ],
     "image": "assets/flags/py.svg",
     "fact": "Flag: <strong>red, white, blue</strong>"
+  },
+  {
+    "countries": [
+      "Paraguay"
+    ],
+    "tags": [
+      "latin-america",
+      "google-car"
+    ],
+    "image": "assets/fact-images/fc892e81-f2539556.jpg",
+    "fact": "Paraguay was recently added with a <strong>silver Google truck</strong> \u2014 the silver cab is visible when panning down in <strong>generation 4 coverage</strong>.",
+    "usefulness": 8
   },
   {
     "countries": [
@@ -8559,6 +8667,18 @@
   },
   {
     "countries": [
+      "San Marino"
+    ],
+    "tags": [
+      "western-europe",
+      "bollards"
+    ],
+    "image": "assets/fact-images/2c7f6d7d-863e7c08.jpg",
+    "fact": "San Marino has distinctive <strong>bollards</strong> similar to Italy's, along with the iconic <strong>hill with a castle</strong> visible from many locations.",
+    "usefulness": 7
+  },
+  {
+    "countries": [
       "Sao Tome and Principe"
     ],
     "tags": [
@@ -8576,6 +8696,18 @@
     ],
     "image": "assets/flags/st.svg",
     "fact": "Flag: <strong>green, yellow, red, black</strong>"
+  },
+  {
+    "countries": [
+      "Sao Tome and Principe"
+    ],
+    "tags": [
+      "africa",
+      "coverage"
+    ],
+    "image": "assets/fact-images/e45d5140-1db2c512.jpg",
+    "fact": "Sao Tome and Principe has <strong>ultra low camera quality</strong> \u2014 extremely <strong>poor resolution</strong> coverage throughout.",
+    "usefulness": 7
   },
   {
     "countries": [
@@ -10079,6 +10211,18 @@
     ],
     "image": "assets/flags/tl.svg",
     "fact": "Flag: <strong>red, black, yellow, white</strong>"
+  },
+  {
+    "countries": [
+      "Timor-Leste"
+    ],
+    "tags": [
+      "south-southeast-asia",
+      "google-car"
+    ],
+    "image": "assets/fact-images/aa6c42ba-5ef96ea1.jpg",
+    "fact": "Timor-Leste uses a <strong>gen 4 follow car</strong> \u2014 a <strong>Toyota</strong> in Dili and a <strong>Mazda</strong> further south with a <strong>red plate</strong>.",
+    "usefulness": 8
   },
   {
     "countries": [
