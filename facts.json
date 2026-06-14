@@ -2508,5 +2508,1489 @@
     ],
     "image": "assets/flags/zw.svg",
     "fact": "Flag: <strong>green, yellow, red, black, white</strong>"
+  },
+  {
+    "countries": [
+      "Andorra"
+    ],
+    "tags": [
+      "western-europe",
+      "license-plate",
+      "buildings"
+    ],
+    "image": "assets/fact-images/88702909-e625b571.jpg",
+    "fact": "<strong>Andorran license plates</strong> are less elongated than typical European plates. They also lack the blue vertical stripe of standard European plates. The left side of Andorran plates feature an orange blotch."
+  },
+  {
+    "countries": [
+      "Austria"
+    ],
+    "tags": [
+      "western-europe",
+      "bollards",
+      "street-name",
+      "street-sign"
+    ],
+    "image": "assets/fact-images/34e02e0a-52dc2537.jpg",
+    "fact": "<strong>The reflectors on the front of Austrian bollards</strong> are either blackish or dark red in colour. Seeing this black reflector and the black hat on the bollard is one of the easiest ways to tell that you are in Austria. No other countries have both of these features on their bollards."
+  },
+  {
+    "countries": [
+      "Belgium"
+    ],
+    "tags": [
+      "western-europe",
+      "license-plate",
+      "street-name",
+      "poles"
+    ],
+    "image": "assets/fact-images/671a97cf-1d141d49.jpg",
+    "fact": "<strong>The easiest way to identify Belgium is via its license plates. Belgium has the standard European plates with a unique red lettering. This appears as a faint red blur on Street View</strong>."
+  },
+  {
+    "countries": [
+      "France"
+    ],
+    "tags": [
+      "western-europe",
+      "bollards",
+      "street-markings",
+      "street-name",
+      "street-sign",
+      "poles"
+    ],
+    "image": "assets/fact-images/9612309a-0ee66d23.jpg",
+    "fact": "<strong>There</strong> are two types of French bollard, both are the same distinct shape and different from typical European bollard shapes. This is the first type with a gray reflector strip running around it. The second type has a red reflector strip."
+  },
+  {
+    "countries": [
+      "Germany"
+    ],
+    "tags": [
+      "western-europe",
+      "google-car",
+      "language",
+      "bollards"
+    ],
+    "image": "assets/fact-images/c7c6a61b-d0cea8d2.jpg",
+    "fact": "<strong>In 2023, Google released new, generation 4 Street View coverage across virtually the entire Germany. This means you should see the blue tinge of the Street View car if you pan down</strong>."
+  },
+  {
+    "countries": [
+      "Greece"
+    ],
+    "tags": [
+      "western-europe",
+      "language",
+      "license-plate",
+      "bollards",
+      "street-markings",
+      "street-sign",
+      "other"
+    ],
+    "image": "assets/fact-images/bf38d7c3-81bb9d54.jpg",
+    "fact": "<strong>The Greek language has a unique alphabet. It can look a bit like Cyrillic, but generally has softer shaped letters</strong>."
+  },
+  {
+    "countries": [
+      "Ireland"
+    ],
+    "tags": [
+      "western-europe",
+      "street-markings",
+      "street-sign"
+    ],
+    "image": "assets/fact-images/f04acb66-8660521d.jpg",
+    "fact": "<strong>Yellow, dashed edge lines on the road</strong> are quite common in Ireland but very rare in the U. K.. This is a good method to tell Ireland apart from the U.K."
+  },
+  {
+    "countries": [
+      "Isle of Man"
+    ],
+    "tags": [
+      "western-europe",
+      "license-plate"
+    ],
+    "image": "assets/fact-images/8a7f741e-e83cb0a8.jpg",
+    "fact": "<strong>Like the UK, the Isle of Man has yellow rear plates. Unlike the UK, the plates have a red stripe on the left</strong>."
+  },
+  {
+    "countries": [
+      "Italy"
+    ],
+    "tags": [
+      "western-europe",
+      "language",
+      "license-plate",
+      "bollards",
+      "street-name",
+      "street-sign"
+    ],
+    "image": "assets/fact-images/4663360c-865cb9a4.jpg",
+    "fact": "<strong>Italian is spoken across Italy and in southern Switzerland. Italian can be recognised as most of its words end in a vowel. In some cases, every single word in Italian sentences ends in a vowel</strong>."
+  },
+  {
+    "countries": [
+      "Luxembourg"
+    ],
+    "tags": [
+      "western-europe",
+      "license-plate",
+      "bollards",
+      "street-sign",
+      "flora"
+    ],
+    "image": "assets/fact-images/f0a2329b-a18047ca.jpg",
+    "fact": "<strong>Luxembourg uses yellow license plates (front and back) with the EU strip on the left side</strong>."
+  },
+  {
+    "countries": [
+      "Malta"
+    ],
+    "tags": [
+      "western-europe",
+      "driving-direction",
+      "license-plate",
+      "street-name",
+      "flora"
+    ],
+    "image": "assets/fact-images/62720ed4-e444907c.jpg",
+    "fact": "<strong>In Malta, the cars drive on the left. The only other countries within Europe that drive on the left are the U.K. and Ireland. Malta looks much more Mediterranean than these places</strong>."
+  },
+  {
+    "countries": [
+      "Monaco"
+    ],
+    "tags": [
+      "western-europe",
+      "coverage"
+    ],
+    "image": "assets/fact-images/60550f89-d3e21360.jpg",
+    "fact": "<strong>Monaco, the second smallest country in the world, also has Geoguessr coverage. The city has tons of yachts, expensive buildings, as well as the distinctive harbor in the center and mountains in the background</strong>."
+  },
+  {
+    "countries": [
+      "Netherlands"
+    ],
+    "tags": [
+      "western-europe",
+      "language",
+      "license-plate",
+      "street-name",
+      "street-sign"
+    ],
+    "image": "assets/fact-images/a1db568d-d00057bc.jpg",
+    "fact": "<strong>The Dutch language appears across the Netherlands. It can often be recognised due to an abundance of \u2018z\u2019 and \u2018w\u2019 letters as well as double letters such as \u2018ee\u2019. The letters \u2018i\u2019 and \u2018j\u2019 also commonly appear together as \u2018ij.</strong>\u2019"
+  },
+  {
+    "countries": [
+      "Portugal"
+    ],
+    "tags": [
+      "western-europe",
+      "license-plate"
+    ],
+    "image": "assets/fact-images/c3e151e8-834f275e.jpg",
+    "fact": "<strong>Portugal can be recognised because drivers normally have a yellow vertical stripe on the right hand side of the license plates to go with the vertical blue stripe on the left hand side of the plate</strong>."
+  },
+  {
+    "countries": [
+      "Spain"
+    ],
+    "tags": [
+      "western-europe",
+      "bollards",
+      "street-name",
+      "street-sign",
+      "poles",
+      "guardrails",
+      "milestone-markers"
+    ],
+    "image": "assets/fact-images/b5a0d534-a138f650.jpg",
+    "fact": "<strong>Spain uses wedge</strong> \u2014 shaped bollards with an orange rectangular reflector in the front and two white circular reflectors in the back. They are typically hollow."
+  },
+  {
+    "countries": [
+      "Switzerland"
+    ],
+    "tags": [
+      "western-europe",
+      "language",
+      "license-plate",
+      "bollards",
+      "buildings",
+      "flora"
+    ],
+    "image": "assets/fact-images/fcab9bde-11d9db75.jpg",
+    "fact": "<strong>In this image, there is a German word with \u2018ss\u2019 used as opposed to \u2018\u00df\u2019. The \u2018ss\u2019 is used in Switzerland whilst the \u2018\u00df\u2019 is used in Austria and Germany</strong>."
+  },
+  {
+    "countries": [
+      "United Kingdom"
+    ],
+    "tags": [
+      "western-europe",
+      "bollards"
+    ],
+    "image": "assets/fact-images/952eb0bd-a2b37fff.jpg",
+    "fact": "<strong>Although bollards</strong> are relatively rare in the UK compared to some other European countries, they are rather unique looking and consist of black and white sections with a large red rectangle on top."
+  },
+  {
+    "countries": [
+      "Albania"
+    ],
+    "tags": [
+      "eastern-europe",
+      "coverage",
+      "language",
+      "license-plate",
+      "bollards",
+      "street-name",
+      "street-sign"
+    ],
+    "image": "assets/fact-images/b6468978-6c796825.jpg",
+    "fact": "<strong>In Albania, when panning upwards in the sky, rifts are often visible</strong>."
+  },
+  {
+    "countries": [
+      "Bulgaria"
+    ],
+    "tags": [
+      "eastern-europe",
+      "language",
+      "bollards",
+      "street-name",
+      "street-sign",
+      "poles"
+    ],
+    "image": "assets/fact-images/c637e146-7090a4fe.jpg",
+    "fact": "<strong>Bulgaria predominantly uses Cyrillic. There</strong> are no distinguishing Cyrillic letters unique to Bulgarian Cyrillic."
+  },
+  {
+    "countries": [
+      "Croatia"
+    ],
+    "tags": [
+      "eastern-europe",
+      "language",
+      "license-plate",
+      "bollards",
+      "street-name",
+      "street-sign",
+      "other"
+    ],
+    "image": "assets/fact-images/d2b6ab89-9bdf6bc2.jpg",
+    "fact": "<strong>Croatian is a slavic language with unique characters such as \u017e, \u0161, and \u0107. There are a high occurrence of j and z in Croatian</strong>."
+  },
+  {
+    "countries": [
+      "Czech Republic"
+    ],
+    "tags": [
+      "eastern-europe",
+      "language",
+      "bollards",
+      "street-markings",
+      "street-sign",
+      "guardrails"
+    ],
+    "image": "assets/fact-images/a4040ac2-faf3d994.jpg",
+    "fact": "<strong>Only Czechia uses the letters \u0158, \u011a, and \u016e</strong>."
+  },
+  {
+    "countries": [
+      "Hungary"
+    ],
+    "tags": [
+      "eastern-europe",
+      "language",
+      "license-plate",
+      "bollards",
+      "street-name",
+      "street-sign",
+      "poles",
+      "other",
+      "milestone-markers"
+    ],
+    "image": "assets/fact-images/b5e13c63-f834e4a9.jpg",
+    "fact": "<strong>The Hungarian language is notable for its vowels marked with one or two lines, resembling apostrophes. The letters \u0151 and \u0171 are unique to Hungarian, featuring double italic lines. However, \u00f6 and \u00fc also appear in Hungarian, similar to their use in other languages like German</strong>."
+  },
+  {
+    "countries": [
+      "Montenegro"
+    ],
+    "tags": [
+      "eastern-europe",
+      "coverage",
+      "language",
+      "bollards",
+      "street-sign"
+    ],
+    "image": "assets/fact-images/3adc0089-2624b290.jpg",
+    "fact": "<strong>In Montenegro, when panning upwards in the sky, rifts are often visible</strong>."
+  },
+  {
+    "countries": [
+      "North Macedonia"
+    ],
+    "tags": [
+      "eastern-europe",
+      "google-car",
+      "language",
+      "license-plate",
+      "bollards",
+      "street-sign",
+      "poles"
+    ],
+    "image": "assets/fact-images/ae574b6a-4f7e39f3.jpg",
+    "fact": "<strong>A key way to identify North Macedonia is by the absence of an antenna on the Google Streetview car, a feature that is usually visible in most of Eastern Europe</strong>."
+  },
+  {
+    "countries": [
+      "Poland"
+    ],
+    "tags": [
+      "eastern-europe",
+      "language",
+      "bollards",
+      "street-markings",
+      "street-sign",
+      "poles"
+    ],
+    "image": "assets/fact-images/0bf30569-2d9346e5.jpg",
+    "fact": "<strong>Polish language is identifiable by frequent use of the letter &quot;z&quot; and the unique &quot;\u0142&quot; (\u0141). Other commonly seen letters include j, w, and y. Additionally, Polish includes letters like \u00f3, \u017c, \u015b, \u0119, and \u0144</strong>."
+  },
+  {
+    "countries": [
+      "Romania"
+    ],
+    "tags": [
+      "eastern-europe",
+      "language",
+      "street-sign",
+      "poles",
+      "milestone-markers"
+    ],
+    "image": "assets/fact-images/0ee6250b-33221c47.jpg",
+    "fact": "<strong>Romanian, a Romance language similar to Italian, includes special letters such as \u0103, \u0219, and \u021b</strong>."
+  },
+  {
+    "countries": [
+      "Russia"
+    ],
+    "tags": [
+      "eastern-europe",
+      "driving-direction",
+      "language",
+      "license-plate",
+      "bollards",
+      "street-sign",
+      "milestone-markers",
+      "sign-posts"
+    ],
+    "image": "assets/fact-images/d9621380-d8f9bf7c.jpg",
+    "fact": "<strong>In Eastern Russia, most cars have the steering wheel on the right</strong> \u2014 hand side, contrasting with Western Russia and almost all of Europe, where steering wheels are on the left side of the car."
+  },
+  {
+    "countries": [
+      "Serbia"
+    ],
+    "tags": [
+      "eastern-europe",
+      "google-car",
+      "language",
+      "bollards",
+      "street-sign",
+      "other"
+    ],
+    "image": "assets/fact-images/93356e01-0bb83228.jpg",
+    "fact": "<strong>A key way to identify Serbia is by the absence of an antenna on the Google Streetview car, a feature that is usually visible in most of Eastern Europe</strong>."
+  },
+  {
+    "countries": [
+      "Slovakia"
+    ],
+    "tags": [
+      "eastern-europe",
+      "language",
+      "bollards",
+      "street-sign",
+      "guardrails"
+    ],
+    "image": "assets/fact-images/31ba0d40-f54ffb3f.jpg",
+    "fact": "<strong>The Slovak language, similar in appearance to Czech for non</strong> \u2014 speakers, has distinct letters unique to it:"
+  },
+  {
+    "countries": [
+      "Slovenia"
+    ],
+    "tags": [
+      "eastern-europe",
+      "language",
+      "bollards",
+      "street-sign",
+      "milestone-markers"
+    ],
+    "image": "assets/fact-images/6d03f450-5b468a9c.jpg",
+    "fact": "<strong>Slovene includes special letters \u010c, \u0160, and \u017d and is closely related to Croatian, Serbian, and Montenegrin</strong>."
+  },
+  {
+    "countries": [
+      "Ukraine"
+    ],
+    "tags": [
+      "eastern-europe",
+      "google-car",
+      "language",
+      "license-plate",
+      "bollards",
+      "street-name",
+      "street-sign",
+      "poles",
+      "other",
+      "flora"
+    ],
+    "image": "assets/fact-images/3b577a63-9beeaec5.jpg",
+    "fact": "<strong>Most of Ukraine has a red Google car with a long antenna visible</strong>."
+  },
+  {
+    "countries": [
+      "Denmark"
+    ],
+    "tags": [
+      "nordics",
+      "language",
+      "license-plate",
+      "bollards",
+      "street-markings",
+      "street-name",
+      "street-sign"
+    ],
+    "image": "assets/fact-images/5297a8eb-10241033.jpg",
+    "fact": "<strong>The Danish language uses the special characters \u00e5, \u00e6, and \u00f8</strong>."
+  },
+  {
+    "countries": [
+      "Faroe Islands"
+    ],
+    "tags": [
+      "nordics",
+      "google-car"
+    ],
+    "image": "assets/fact-images/bbf66861-2f87380a.jpg",
+    "fact": "<strong>The Faroe Islands have a unique jagged green mountain landscape without trees</strong>."
+  },
+  {
+    "countries": [
+      "Finland"
+    ],
+    "tags": [
+      "nordics",
+      "coverage",
+      "language",
+      "bollards",
+      "street-markings",
+      "street-name",
+      "street-sign"
+    ],
+    "image": "assets/fact-images/3c93a159-f1384fd2.jpg",
+    "fact": "<strong>When you see a dirt or gravel road in a Nordic country without other meaningful clues, Finland typically is the best option</strong>."
+  },
+  {
+    "countries": [
+      "Greenland"
+    ],
+    "tags": [
+      "nordics",
+      "buildings"
+    ],
+    "image": "assets/fact-images/6d0265e8-dc897826.jpg",
+    "fact": "<strong>Greenland tends to have a range of colourfully painted houses</strong>."
+  },
+  {
+    "countries": [
+      "Iceland"
+    ],
+    "tags": [
+      "nordics",
+      "google-car",
+      "language",
+      "license-plate",
+      "bollards",
+      "street-markings",
+      "street-sign",
+      "flora"
+    ],
+    "image": "assets/fact-images/e3b1d9a9-95a18141.jpg",
+    "fact": "<strong>In Iceland, the Street View car often has an aerial visible, and sometimes a section of the car painted in white, red, and blue can also be seen</strong>."
+  },
+  {
+    "countries": [
+      "Norway"
+    ],
+    "tags": [
+      "nordics",
+      "language",
+      "license-plate",
+      "street-markings",
+      "street-name",
+      "street-sign",
+      "flora"
+    ],
+    "image": "assets/fact-images/5cefc67d-0be04dfa.jpg",
+    "fact": "<strong>The Norwegian language uses the special characters \u00e5, \u00e6, and \u00f8</strong>."
+  },
+  {
+    "countries": [
+      "Sweden"
+    ],
+    "tags": [
+      "nordics",
+      "language",
+      "bollards",
+      "street-markings",
+      "street-name",
+      "street-sign",
+      "chevrons"
+    ],
+    "image": "assets/fact-images/103e644b-33b3b81c.jpg",
+    "fact": "<strong>The Swedish language uses the special characters \u00e5, \u00e4, and \u00f6</strong>."
+  },
+  {
+    "countries": [
+      "Estonia"
+    ],
+    "tags": [
+      "baltics",
+      "language",
+      "bollards",
+      "street-sign",
+      "flora",
+      "chevrons",
+      "milestone-markers",
+      "sign-posts"
+    ],
+    "image": "assets/fact-images/8b79f033-221fbbb7.jpg",
+    "fact": "<strong>Estonian is similar to Finnish. Compared to the Baltic languages, the \u00d5 and \u00c4 characters are unique. Compared to Finnish, the \u00d5 is unique</strong>."
+  },
+  {
+    "countries": [
+      "Latvia"
+    ],
+    "tags": [
+      "baltics",
+      "language",
+      "bollards",
+      "street-sign",
+      "guardrails",
+      "milestone-markers"
+    ],
+    "image": "assets/fact-images/c98f1ad3-dddbd4ed.jpg",
+    "fact": "<strong>Latvian is a Baltic language with special characters that have a horizontal line on top, like \u0101, \u0113, \u012b, \u014d, \u016b. It also has the special characters \u0161, \u013c, \u0137, and \u0146</strong>."
+  },
+  {
+    "countries": [
+      "Lithuania"
+    ],
+    "tags": [
+      "baltics",
+      "language",
+      "bollards",
+      "street-sign",
+      "guardrails",
+      "milestone-markers"
+    ],
+    "image": "assets/fact-images/fb89bfe4-ac77dbe8.jpg",
+    "fact": "<strong>Lithuanian is a Baltic language. It has the unique special character \u0117. It shares the special characters \u0161, \u017e, and \u010d with Latvian</strong>."
+  },
+  {
+    "countries": [
+      "Argentina"
+    ],
+    "tags": [
+      "latin-america",
+      "google-car",
+      "license-plate",
+      "street-markings",
+      "poles",
+      "other",
+      "chevrons",
+      "milestone-markers"
+    ],
+    "image": "assets/fact-images/9be09299-5f3c97e5.jpg",
+    "fact": "<strong>The front of the Street View car is normally this ghostly, black colour in Argentina</strong>."
+  },
+  {
+    "countries": [
+      "Bolivia"
+    ],
+    "tags": [
+      "latin-america",
+      "license-plate",
+      "sign-posts"
+    ],
+    "image": "assets/fact-images/166be336-d1876ccf.jpg",
+    "fact": "<strong>Cars in Bolivia have license plates with a faint, blue colour</strong>."
+  },
+  {
+    "countries": [
+      "Brazil"
+    ],
+    "tags": [
+      "latin-america",
+      "language",
+      "license-plate",
+      "street-markings",
+      "street-sign",
+      "poles",
+      "other",
+      "flora",
+      "chevrons",
+      "milestone-markers"
+    ],
+    "image": "assets/fact-images/730da1cf-0894ccbb.jpg",
+    "fact": "<strong>Brazil uses the Portuguese language. To distinguish it from Spanish, note that it includes the &#x27;\u00c7&#x27; and &#x27;\u00e3&#x27; symbols, which do not occur in Spanish. Also, many Portuguese words end in &#x27;\u00e7\u00e3o&#x27;</strong>."
+  },
+  {
+    "countries": [
+      "Chile"
+    ],
+    "tags": [
+      "latin-america",
+      "google-car",
+      "license-plate",
+      "street-markings",
+      "poles",
+      "buildings",
+      "milestone-markers",
+      "sign-posts"
+    ],
+    "image": "assets/fact-images/e12d20ae-3bf31997.jpg",
+    "fact": "<strong>A large part of Chile can be recognized by the white rear of the Google car being visible</strong>."
+  },
+  {
+    "countries": [
+      "Colombia"
+    ],
+    "tags": [
+      "latin-america",
+      "google-car",
+      "license-plate",
+      "poles",
+      "other",
+      "cars",
+      "milestone-markers",
+      "sign-posts"
+    ],
+    "image": "assets/fact-images/6bbc6b7f-98b72acd.jpg",
+    "fact": "<strong>In Colombia&#x27;s Generation 3 Streetview coverage, a short, thick antenna is sometimes visible on black, white, or grey cars. In Generation 4 coverage, white or silver cars are common</strong>."
+  },
+  {
+    "countries": [
+      "Costa Rica"
+    ],
+    "tags": [
+      "latin-america",
+      "coverage"
+    ],
+    "image": "assets/fact-images/e580ba28-375f1ecc.jpg",
+    "fact": "<strong>Street View coverage in Costa Rica is limited to footpaths as it was captured by a person walking around and not a car. A big clue in identifying Costa Rica is that you won\u2019t be able to leave the footpath</strong>."
+  },
+  {
+    "countries": [
+      "Dominican Republic"
+    ],
+    "tags": [
+      "latin-america",
+      "street-name"
+    ],
+    "image": "assets/fact-images/90d5f5bc-d7a9af78.jpg",
+    "fact": "<strong>These distinctive, green street signs with a white border and white lettering are common throughout the Dominican Republic</strong>."
+  },
+  {
+    "countries": [
+      "Ecuador"
+    ],
+    "tags": [
+      "latin-america",
+      "google-car",
+      "license-plate",
+      "bollards",
+      "street-sign",
+      "poles",
+      "other",
+      "guardrails"
+    ],
+    "image": "assets/fact-images/563ec061-ce987723.jpg",
+    "fact": "<strong>Ecuador has a white Google car equipped with a short and thick (&quot;stubby&quot;) antenna</strong>."
+  },
+  {
+    "countries": [
+      "Guatemala"
+    ],
+    "tags": [
+      "latin-america",
+      "google-car",
+      "milestone-markers"
+    ],
+    "image": "assets/fact-images/144b8bfb-a1359d2b.jpg",
+    "fact": "<strong>Guatemala has the bars visible as well as the black mirrors</strong>."
+  },
+  {
+    "countries": [
+      "Mexico"
+    ],
+    "tags": [
+      "latin-america",
+      "bollards",
+      "street-sign",
+      "poles",
+      "cars",
+      "buildings"
+    ],
+    "image": "assets/fact-images/0640b7d9-a2693521.jpg",
+    "fact": "<strong>Mexican bollards are typically white and cigarette</strong> \u2014 shaped, with a black section near the base of the bollard and a yellow section at the back."
+  },
+  {
+    "countries": [
+      "Panama"
+    ],
+    "tags": [
+      "latin-america",
+      "google-car"
+    ],
+    "image": "assets/fact-images/c4fc5677-0f2ac047.jpg",
+    "fact": "<strong>The Street View car in Panama has this unique antenna that is found nowhere else on Earth. It should be visible when you pan down</strong> \u2014 although not necessarily as visible as this image."
+  },
+  {
+    "countries": [
+      "Peru"
+    ],
+    "tags": [
+      "latin-america",
+      "bollards",
+      "poles",
+      "other",
+      "cars",
+      "sign-posts"
+    ],
+    "image": "assets/fact-images/4d7abb54-608828b1.jpg",
+    "fact": "<strong>The most common bollards in Peru look like cigarettes. Sometimes they feature black stripes, but in other instances like here, they lack these stripes</strong>."
+  },
+  {
+    "countries": [
+      "Puerto Rico"
+    ],
+    "tags": [
+      "latin-america",
+      "license-plate",
+      "other"
+    ],
+    "image": "assets/fact-images/07c90ac8-5dc903ad.jpg",
+    "fact": "<strong>Cars in Puerto Rico typically have no front license plate</strong>."
+  },
+  {
+    "countries": [
+      "Virgin Islands (U.S.)"
+    ],
+    "tags": [
+      "latin-america",
+      "driving-direction",
+      "google-car"
+    ],
+    "image": "assets/fact-images/2919310b-30b0b0fe.jpg",
+    "fact": "<strong>Cars drive on the left in the US Virgin Islands, contrasting the US</strong>."
+  },
+  {
+    "countries": [
+      "Uruguay"
+    ],
+    "tags": [
+      "latin-america",
+      "google-car",
+      "bollards",
+      "street-markings",
+      "street-sign",
+      "poles",
+      "other",
+      "flora",
+      "milestone-markers",
+      "sign-posts"
+    ],
+    "image": "assets/fact-images/ff8f75a0-1c6267dd.jpg",
+    "fact": "<strong>The front of the Street View car is normally this ghostly, black colour in Uruguay</strong>."
+  },
+  {
+    "countries": [
+      "Bermuda"
+    ],
+    "tags": [
+      "north-america",
+      "driving-direction",
+      "google-car",
+      "buildings"
+    ],
+    "image": "assets/fact-images/925d6a2f-e783b821.jpg",
+    "fact": "<strong>Vehicles drive on the left side of the road in Bermuda and there is most commonly a single, yellow centre line on the roads</strong>."
+  },
+  {
+    "countries": [
+      "Canada"
+    ],
+    "tags": [
+      "north-america",
+      "street-sign",
+      "sign-posts"
+    ],
+    "image": "assets/fact-images/4bcffccf-21634f0b.jpg",
+    "fact": "<strong>The Canadian province of New Brunswick has words on signs in both English and French. On this sign we can see the English word \u2018West\u2019 and the French equivalent \u2018Ouest\u2019</strong>."
+  },
+  {
+    "countries": [
+      "United States of America"
+    ],
+    "tags": [
+      "north-america",
+      "license-plate",
+      "street-sign"
+    ],
+    "image": "assets/fact-images/c3ebad54-5a18250c.jpg",
+    "fact": "<strong>Cars sometimes lack a front license plate in the southeastern US, extending up to Michigan and across southern states to Arizona</strong>."
+  },
+  {
+    "countries": [
+      "Bangladesh"
+    ],
+    "tags": [
+      "south-southeast-asia",
+      "google-car",
+      "language",
+      "bollards",
+      "other",
+      "cars"
+    ],
+    "image": "assets/fact-images/01419ec3-ca1bc8c2.jpg",
+    "fact": "<strong>The bars underneath the Street View car and side view mirrors are visible in many parts of Bangladesh however they don\u2019t appear everywhere</strong>."
+  },
+  {
+    "countries": [
+      "Bhutan"
+    ],
+    "tags": [
+      "south-southeast-asia",
+      "license-plate",
+      "bollards",
+      "buildings",
+      "flora"
+    ],
+    "image": "assets/fact-images/9e7fb41e-7421b1ec.jpg",
+    "fact": "<strong>Plates from Bhutan have a unique red colour</strong>."
+  },
+  {
+    "countries": [
+      "Cambodia"
+    ],
+    "tags": [
+      "south-southeast-asia",
+      "language",
+      "bollards",
+      "street-sign",
+      "poles",
+      "buildings",
+      "milestone-markers"
+    ],
+    "image": "assets/fact-images/5ff0091c-a565b559.jpg",
+    "fact": "<strong>Khmer, the language in Cambodia, can be identified by the small hooks on the top of almost every symbol, which point to the right</strong>."
+  },
+  {
+    "countries": [
+      "Christmas Island"
+    ],
+    "tags": [
+      "south-southeast-asia",
+      "google-car",
+      "license-plate",
+      "other"
+    ],
+    "image": "assets/fact-images/99f496a3-5ed0b5e6.jpg",
+    "fact": "<strong>If you pan down in Christmas Island, you will see the tray of a ute (pick</strong> \u2014 up truck). The tray is a light silver colour."
+  },
+  {
+    "countries": [
+      "India"
+    ],
+    "tags": [
+      "south-southeast-asia",
+      "coverage",
+      "google-car",
+      "language",
+      "license-plate",
+      "other"
+    ],
+    "image": "assets/fact-images/0b27d880-d378f59c.jpg",
+    "fact": "<strong>India\u2019s Street View footage was taken by an unofficial camera. It therefore appears different from all the standard generation imagery. The Indian camera is of low</strong> \u2014 quality, unique and easily recognisable. Everything appears slightly \u2018foggy\u2019."
+  },
+  {
+    "countries": [
+      "Indonesia"
+    ],
+    "tags": [
+      "south-southeast-asia",
+      "language",
+      "license-plate",
+      "street-markings",
+      "poles",
+      "other"
+    ],
+    "image": "assets/fact-images/708616ec-f7a11bf6.jpg",
+    "fact": "<strong>The Indonesian language is very similar to Malaysian. Indonesian is influenced by Dutch and Malaysian by English. It&#x27;s often hard to distinguish the two though</strong>."
+  },
+  {
+    "countries": [
+      "Laos"
+    ],
+    "tags": [
+      "south-southeast-asia",
+      "google-car",
+      "language",
+      "license-plate",
+      "street-sign",
+      "poles",
+      "flora"
+    ],
+    "image": "assets/fact-images/e2a57c7a-de4b4fc7.jpg",
+    "fact": "<strong>In the few locations in Laos that</strong> are covered by Street View, you will see the bars and side view mirrors of the Street View car. These aren\u2019t visible in Vientiane."
+  },
+  {
+    "countries": [
+      "Malaysia"
+    ],
+    "tags": [
+      "south-southeast-asia",
+      "language",
+      "license-plate",
+      "bollards",
+      "street-markings",
+      "street-sign",
+      "poles",
+      "other",
+      "buildings",
+      "sign-posts"
+    ],
+    "image": "assets/fact-images/8e5a516d-d0fa32fd.jpg",
+    "fact": "<strong>The Malaysian language is very similar to Indonesian. Malaysian is influenced by English and Indonesian by Dutch. It&#x27;s often hard to distinguish the two though</strong>."
+  },
+  {
+    "countries": [
+      "Pakistan"
+    ],
+    "tags": [
+      "south-southeast-asia",
+      "google-car",
+      "buildings"
+    ],
+    "image": "assets/fact-images/d9f1217e-ad8a3e2b.jpg",
+    "fact": "<strong>Pakistan\u2019s coverage in unique as it wasn\u2019t captured by a car but rather a person. This means when you pan down, you should see the outline pictured above. A number of other countries around the world also have trekker coverage</strong>."
+  },
+  {
+    "countries": [
+      "Philippines"
+    ],
+    "tags": [
+      "south-southeast-asia",
+      "language",
+      "license-plate",
+      "street-markings",
+      "street-sign",
+      "poles",
+      "other",
+      "cars"
+    ],
+    "image": "assets/fact-images/228f0112-f050bf3d.jpg",
+    "fact": "<strong>English words</strong> are common in the Philippines because English is one of the country&#x27;s two official languages."
+  },
+  {
+    "countries": [
+      "Singapore"
+    ],
+    "tags": [
+      "south-southeast-asia",
+      "street-sign"
+    ],
+    "image": "assets/fact-images/5ab1b22b-c19b2091.jpg",
+    "fact": "<strong>There</strong> are two useful tips to help you pinpoint in Singapore. Firstly, three letter highway names (such as TPE, SLE and CTE above) are generally easy to find on the map. Secondly, other highways in Singapore are commonly named after the district they are located in. In the above example, Upper Changi Road East is located in Changi, a district whose name is clearly visible on the map."
+  },
+  {
+    "countries": [
+      "Sri Lanka"
+    ],
+    "tags": [
+      "south-southeast-asia",
+      "google-car",
+      "language",
+      "license-plate",
+      "bollards",
+      "poles",
+      "flora",
+      "sign-posts"
+    ],
+    "image": "assets/fact-images/ee53b5cf-1e786261.jpg",
+    "fact": "<strong>Sri Lanka\u2019s Google car in Generation 3 coverage has blue, white and red stripes, resembling the French flag</strong>."
+  },
+  {
+    "countries": [
+      "Thailand"
+    ],
+    "tags": [
+      "south-southeast-asia",
+      "language",
+      "license-plate",
+      "bollards",
+      "street-markings",
+      "poles",
+      "other",
+      "flora",
+      "milestone-markers",
+      "sign-posts"
+    ],
+    "image": "assets/fact-images/6a6c9816-03a238eb.jpg",
+    "fact": "<strong>The Thai language can easily be identified by its abundance of small circles on the ends of many letters</strong>."
+  },
+  {
+    "countries": [
+      "Vietnam"
+    ],
+    "tags": [
+      "south-southeast-asia",
+      "google-car"
+    ],
+    "image": "assets/fact-images/9daec81b-4711b5e3.jpg",
+    "fact": "<strong>Street View coverage in Vietnam was recorded on a motorbike. In Vietnam you will either see the motorbike, the blurred outline of the motorbike or a helmet</strong>."
+  },
+  {
+    "countries": [
+      "China"
+    ],
+    "tags": [
+      "rest-of-asia",
+      "language"
+    ],
+    "image": "assets/fact-images/7daafe95-d2dd7d12.jpg",
+    "fact": "<strong>This language is spoken in Taiwan, Hong Kong, Macau and China. Chinese tends to have more complicated characters than Japanese and Korean. Chinese characters tend to be made up of more strokes than Japanese. For example, \u9ebc and \u540d</strong>."
+  },
+  {
+    "countries": [
+      "Hong Kong"
+    ],
+    "tags": [
+      "rest-of-asia",
+      "coverage",
+      "language",
+      "license-plate",
+      "street-sign",
+      "cars"
+    ],
+    "image": "assets/fact-images/62bd60d8-d3962894.jpg",
+    "fact": "<strong>Hong Kong is easily recognizable due to its many skyscrapers along the large bay of water, combined with its many Chinese language signs</strong>."
+  },
+  {
+    "countries": [
+      "Japan"
+    ],
+    "tags": [
+      "rest-of-asia",
+      "language",
+      "license-plate",
+      "bollards",
+      "street-sign",
+      "poles",
+      "cars",
+      "flora"
+    ],
+    "image": "assets/fact-images/227395c7-5351860d.jpg",
+    "fact": "<strong>Japanese is different in that is uses many simple curved strokes that make up their characters such as \u30ce, \u30b7, \u3044 and \u304f</strong>."
+  },
+  {
+    "countries": [
+      "Kyrgyzstan"
+    ],
+    "tags": [
+      "rest-of-asia",
+      "google-car",
+      "license-plate"
+    ],
+    "image": "assets/fact-images/acefdeaf-3ec08cf7.jpg",
+    "fact": "<strong>In south</strong> \u2014 western Kyrgyzstan, around the city of Osh, if you look in the left side-view mirror, you will see approximately 90% of the Kyrgyzstan silver car being reflected. In the remainder of Kyrgyzstan, you will only see approximately 60% of the Kyrgyzstan silver car being reflected."
+  },
+  {
+    "countries": [
+      "Mongolia"
+    ],
+    "tags": [
+      "rest-of-asia",
+      "google-car"
+    ],
+    "image": "assets/fact-images/458385cb-cf2e32de.jpg",
+    "fact": "<strong>The second variant of the Mongolian Street View car is the visible bars along with the red side view mirrors</strong>."
+  },
+  {
+    "countries": [
+      "South Korea"
+    ],
+    "tags": [
+      "rest-of-asia",
+      "language",
+      "street-sign",
+      "poles",
+      "other"
+    ],
+    "image": "assets/fact-images/c80c3fed-cfcc28ba.jpg",
+    "fact": "<strong>The key aspect distinguishing Korean from other East Asian written languages is their usage of circles for instance \uc694 and \uc548. Other than the idiosyncratic circles, Korean looks quite blocky and rigid in its writing</strong>."
+  },
+  {
+    "countries": [
+      "Taiwan"
+    ],
+    "tags": [
+      "rest-of-asia",
+      "language",
+      "street-sign",
+      "poles",
+      "other"
+    ],
+    "image": "assets/fact-images/e5599c09-723467c7.jpg",
+    "fact": "<strong>This language is spoken in Taiwan, Hong Kong, Macau and China. Chinese tends to have more complicated characters than Japanese and Korean. Chinese characters tend to be made up of more strokes than Japanese. For example, \u9ebc and \u540d</strong>."
+  },
+  {
+    "countries": [
+      "American Samoa"
+    ],
+    "tags": [
+      "oceania",
+      "driving-direction",
+      "google-car",
+      "license-plate"
+    ],
+    "image": "assets/fact-images/2453108e-2f2b375a.jpg",
+    "fact": "<strong>Cars drive on the right in American Samoa (which is rare for an island) and there is often a double yellow line in the centre of the road. The most populated island in American Samoa is Tutuila. This island features coverage along lots of roads and the island is more inhabited</strong>."
+  },
+  {
+    "countries": [
+      "Australia"
+    ],
+    "tags": [
+      "oceania",
+      "license-plate",
+      "bollards",
+      "street-name",
+      "street-sign",
+      "poles",
+      "flora",
+      "chevrons",
+      "sign-posts"
+    ],
+    "image": "assets/fact-images/6a69c454-0120542b.jpg",
+    "fact": "<strong>License plates in the Northern Territory of Australia generally have a reddish tinge</strong>."
+  },
+  {
+    "countries": [
+      "Guam"
+    ],
+    "tags": [
+      "oceania",
+      "google-car",
+      "street-sign",
+      "poles"
+    ],
+    "image": "assets/fact-images/0ad30218-25fb75e3.jpg",
+    "fact": "<strong>If you look at the rear</strong> \u2014 left of the Guam car (right-side on the above picture), you will see a tiny bit of a bar sticking out- this distinguishes Guam from the Northern Mariana Islands."
+  },
+  {
+    "countries": [
+      "New Zealand"
+    ],
+    "tags": [
+      "oceania",
+      "bollards",
+      "street-name",
+      "street-sign",
+      "poles",
+      "flora",
+      "chevrons"
+    ],
+    "image": "assets/fact-images/ff2b7d72-7f0ac70f.jpg",
+    "fact": "<strong>In New Zealand, bollards have a red strip around the upper part of the bollard</strong>."
+  },
+  {
+    "countries": [
+      "Northern Mariana Islands"
+    ],
+    "tags": [
+      "oceania",
+      "driving-direction",
+      "google-car",
+      "street-sign"
+    ],
+    "image": "assets/fact-images/645130a8-779d0f55.jpg",
+    "fact": "<strong>The Northern Mariana landscape features a large number of palm trees. The territory is very tropical feeling and there are often hills nearby. Cars drive on the right in the Northern Mariana Islands which is rare for an island area</strong>."
+  },
+  {
+    "countries": [
+      "United States Minor Outlying Islands"
+    ],
+    "tags": [
+      "oceania",
+      "other"
+    ],
+    "image": "assets/fact-images/701fcab2-e77138fb.jpg",
+    "fact": "<strong>Midway Atoll is instantly recognizable thanks to the thousands of albatrosses that swarm the entire area</strong>."
+  },
+  {
+    "countries": [
+      "Botswana"
+    ],
+    "tags": [
+      "africa",
+      "street-sign",
+      "poles",
+      "other",
+      "sign-posts"
+    ],
+    "image": "assets/fact-images/26079bfa-062b3e48.jpg",
+    "fact": "<strong>Botswana\u2019s highway signage</strong> are green with white text and yellow highway numbers. Botswana uses the letter A for all of their national roads."
+  },
+  {
+    "countries": [
+      "Eswatini"
+    ],
+    "tags": [
+      "africa",
+      "street-name",
+      "poles",
+      "flora"
+    ],
+    "image": "assets/fact-images/634feae3-77a00360.jpg",
+    "fact": "<strong>Eswatini street signs, same as the other South African countries, has white text and yellow road numbers on green background. Road numbers in Eswatini start with MR</strong>."
+  },
+  {
+    "countries": [
+      "Ghana"
+    ],
+    "tags": [
+      "africa",
+      "google-car",
+      "license-plate"
+    ],
+    "image": "assets/fact-images/e6b83a79-17ca112d.jpg",
+    "fact": "<strong>Ghana&#x27;s Google car has a visible roof rack with a black tape on the right end of the front bar</strong>."
+  },
+  {
+    "countries": [
+      "Kenya"
+    ],
+    "tags": [
+      "africa",
+      "google-car",
+      "license-plate"
+    ],
+    "image": "assets/fact-images/ac372113-8ab56227.jpg",
+    "fact": "<strong>Kenya has a snorkel on the front of the Google Streetview car</strong>."
+  },
+  {
+    "countries": [
+      "Lesotho"
+    ],
+    "tags": [
+      "africa",
+      "street-name",
+      "other",
+      "buildings",
+      "flora"
+    ],
+    "image": "assets/fact-images/77022c85-c50f0ce8.jpg",
+    "fact": "<strong>Lesotho steeet signs</strong> have green background with white text and yellow highway numbers. National road numbers start with A, but are often not printed on the sign."
+  },
+  {
+    "countries": [
+      "Madagascar"
+    ],
+    "tags": [
+      "africa",
+      "coverage",
+      "google-car",
+      "flora"
+    ],
+    "image": "assets/fact-images/e45d5140-cb5680d0.jpg",
+    "fact": "<strong>Madagascar has a small area of trekker coverage in the middle of the country that&#x27;s fairly common on the Geoguessr &quot;World&quot; map</strong>."
+  },
+  {
+    "countries": [
+      "Nigeria"
+    ],
+    "tags": [
+      "africa",
+      "coverage",
+      "google-car",
+      "license-plate",
+      "poles"
+    ],
+    "image": "assets/fact-images/0aa292f2-0926f8ef.jpg",
+    "fact": "<strong>In Nigeria, a white police car will often be following you. The following car can alternatively be a black police car, or a silver, white, black, or red SUV</strong>."
+  },
+  {
+    "countries": [
+      "Rwanda"
+    ],
+    "tags": [
+      "africa",
+      "google-car",
+      "license-plate",
+      "street-markings",
+      "cars",
+      "buildings"
+    ],
+    "image": "assets/fact-images/e36f496f-52fdfa9e.jpg",
+    "fact": "<strong>This is the Rwandan Google car. It can be white, black, or grey/brown. It&#x27;s almost always visible, including its camera mount</strong>."
+  },
+  {
+    "countries": [
+      "Senegal"
+    ],
+    "tags": [
+      "africa",
+      "google-car",
+      "language",
+      "license-plate",
+      "poles"
+    ],
+    "image": "assets/fact-images/96ef2520-0cbbe226.jpg",
+    "fact": "<strong>In Senegal a silver or white truck cab is visible in the Generation 4 coverage. This is the white truck</strong>."
+  },
+  {
+    "countries": [
+      "South Africa"
+    ],
+    "tags": [
+      "africa",
+      "google-car",
+      "bollards",
+      "street-sign",
+      "flora"
+    ],
+    "image": "assets/fact-images/48c7d016-28ded7ae.jpg",
+    "fact": "<strong>South Africa has Gen 2 camera coverage. You will often see the halo in the sky and/or the circular blur beneath the Street View car</strong>."
+  },
+  {
+    "countries": [
+      "Uganda"
+    ],
+    "tags": [
+      "africa",
+      "google-car",
+      "license-plate",
+      "other",
+      "flora"
+    ],
+    "image": "assets/fact-images/c94072d3-525e2f46.jpg",
+    "fact": "<strong>In Uganda&#x27;s national parks, the Google car has a black bar on the front of the car</strong>."
+  },
+  {
+    "countries": [
+      "Israel"
+    ],
+    "tags": [
+      "middle-east",
+      "language",
+      "license-plate",
+      "street-sign",
+      "poles"
+    ],
+    "image": "assets/fact-images/c45a1ab0-1b0032bd.jpg",
+    "fact": "<strong>This is Hebrew, a language is spoken in Israel</strong>."
+  },
+  {
+    "countries": [
+      "Jordan"
+    ],
+    "tags": [
+      "middle-east",
+      "google-car",
+      "street-sign"
+    ],
+    "image": "assets/fact-images/6aee3f9a-37073334.jpg",
+    "fact": "<strong>The Jordan car is black if you pan down. This contrasts the white car of the UAE</strong>."
+  },
+  {
+    "countries": [
+      "State of Palestine"
+    ],
+    "tags": [
+      "middle-east",
+      "language",
+      "license-plate"
+    ],
+    "image": "assets/fact-images/e7800240-b73c7623.jpg",
+    "fact": "<strong>Palestine has Arabic as its dominant language. Arabic looks similar to calligraphy and many letters have horizontal lines underneath them. This language contrasts Hebrew which is predominant in Israel</strong>."
+  },
+  {
+    "countries": [
+      "Qatar"
+    ],
+    "tags": [
+      "middle-east",
+      "google-car",
+      "license-plate",
+      "street-markings",
+      "street-sign"
+    ],
+    "image": "assets/fact-images/20aa7c7a-e271d81b.jpg",
+    "fact": "<strong>Qatar features a white truck beneath you, similar to the UAE and Senegal</strong>."
+  },
+  {
+    "countries": [
+      "Tunisia"
+    ],
+    "tags": [
+      "middle-east",
+      "google-car",
+      "license-plate",
+      "street-sign",
+      "poles",
+      "flora"
+    ],
+    "image": "assets/fact-images/aa6c42ba-c87b508a.jpg",
+    "fact": "<strong>This lighter green Toyota follows the Street View car in Tunis and indeed everywhere in the northern part of Tunisia</strong> \u2014 north of Hammamet."
+  },
+  {
+    "countries": [
+      "Turkey"
+    ],
+    "tags": [
+      "middle-east",
+      "language",
+      "bollards",
+      "street-name",
+      "street-sign",
+      "poles",
+      "other",
+      "chevrons",
+      "milestone-markers"
+    ],
+    "image": "assets/fact-images/07830486-a8a0637b.jpg",
+    "fact": "<strong>Seeing the letter \u2018\u015f\u2019 or the letter \u2018c\u2019 with a hook underneath in a useful way to confirm that you are in Turkey</strong>."
+  },
+  {
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "tags": [
+      "middle-east",
+      "google-car",
+      "language",
+      "buildings",
+      "sign-posts"
+    ],
+    "image": "assets/fact-images/266b09a5-acf9d42a.jpg",
+    "fact": "<strong>The generation 4 coverage in UEA was taken with this truck. It can only be found in Dubai and Sharjah</strong>."
   }
 ]
