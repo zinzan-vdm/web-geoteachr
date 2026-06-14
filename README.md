@@ -35,7 +35,8 @@ python3 -m http.server 8080
 |----------|-------|
 | Flag facts (colors) | 251 |
 | Geo identification facts | 556 |
-| **Total** | **807** |
+| Domain name extensions (ccTLDs) | 267 |
+| **Total** | **1,074** |
 | Country flag SVGs | 249 |
 | Fact images | 556 |
 
