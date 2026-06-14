@@ -43,7 +43,7 @@ function renderFacts(filtered) {
     const card = document.createElement('div');
     card.className = 'fact-card';
 
-    // Image
+    // Image with click-to-zoom overlay
     const img = document.createElement('img');
     img.className = 'fact-image';
     img.loading = 'lazy';
@@ -57,7 +57,24 @@ function renderFacts(filtered) {
       // Wrap in a zoom container
       const zoomWrap = document.createElement('div');
       zoomWrap.className = 'fact-image-wrap';
+
+      // Create zoom overlay
+      const overlay = document.createElement('div');
+      overlay.className = 'fact-image-zoom';
+      const zoomImg = document.createElement('img');
+      zoomImg.src = fact.image;
+      zoomImg.alt = fact.alt || '';
+      overlay.appendChild(zoomImg);
+      overlay.addEventListener('click', function () {
+        this.style.display = 'none';
+      });
+      document.body.appendChild(overlay);
+
       zoomWrap.appendChild(img);
+      zoomWrap.addEventListener('click', function (e) {
+        e.stopPropagation();
+        overlay.style.display = 'flex';
+      });
       card.appendChild(zoomWrap);
     } else {
       img.style.display = 'none';
@@ -127,6 +144,15 @@ function renderFacts(filtered) {
     const textDiv = document.createElement('div');
     textDiv.className = 'fact-text';
     textDiv.innerHTML = fact.fact;
+
+    // Usefulness indicator
+    if (fact.usefulness !== undefined) {
+      const usSpan = document.createElement('span');
+      usSpan.className = 'usefulness';
+      usSpan.textContent = ` (usefulness: ${fact.usefulness}/10)`;
+      textDiv.appendChild(usSpan);
+    }
+
     content.appendChild(textDiv);
 
     card.appendChild(content);
@@ -308,6 +334,14 @@ async function init() {
   });
 
   document.addEventListener('keydown', handleGlobalKeydown);
+
+  // Close any open zoom overlay on Escape
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') {
+      const zooms = document.querySelectorAll('.fact-image-zoom');
+      for (const z of zooms) z.style.display = 'none';
+    }
+  });
 
   // Fetch country codes
   try {
