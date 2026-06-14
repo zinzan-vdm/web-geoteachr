@@ -1,58 +1,47 @@
 # GeoTeachr
 
-A simple, static tool for browsing GeoGuessr country-identification tricks.
+A filterable reference of GeoGuessr country-identification tells — bollards,
+license plates, road markings, language scripts, Google cars, poles, signs,
+vegetation, coverage, and flag colors. Static HTML/JS/CSS, no backend.
 
-## What it is
+## Features
 
-A filterable reference of geographic tells — road lines, bollards, poles,
-signs, license plates, vegetation, language, Google cars — with images and
-descriptions. All data lives in `facts.json` so you can easily add your own.
+- **Keyword search** — type any terms; results filtered by country > tag > text
+  matching. All words must match (AND semantics).
+- **Multi-filter** — use `;` to combine independent queries. E.g. `bollards; france`
+  finds facts matching *both* filter groups.
+- **Flag lookup** — each country has a flag-color entry (tag: `flag`). Search
+  `flag; red white blue` to find countries by flag colors.
+- **Dark/light theme** — toggle persisted to `localStorage`.
+- **Keyboard shortcuts** — `/` or `Enter` to focus search, `Escape` to clear.
 
 ## Run
 
 ```bash
-cd web-geoteachr
-tar c . | docker build --tag web-geoteachr -f Containerfile -
+docker build --tag web-geoteachr -f Containerfile .
 docker run -d -p 8080:80 web-geoteachr
 ```
 
-Open http://localhost:8080.
-
-## Usage
-
-- **Search** — each word narrows results. Type `bollard france` to see only
-  facts where *both* "bollard" *and* "france" match (country, tag, or text).
-  Sorted by match quality: country > tag > description.
-- **Multi-filter** — use `;` to combine independent queries. E.g. `bollards; france`
-  finds facts matching all words in "bollards" AND all words in "france".
-- **Flag descriptions** — each country has a flag entry (tag: `flag`) with
-  its colors. Search e.g. `flag; red white blue` to find countries by flag.
-- **`/`** — focus search from anywhere on the page.
-- **`Enter`** — focus search (when not in a text input).
-- **`Escape`** — clear the current search and blur the input.
-- **🌙/☀️** — toggle dark/light mode (persisted to localStorage).
-
-## Project structure
-
-```
-index.html           — page layout
-styles.css           — dark/light theme, responsive, flag badges
-app.js               — search, rendering, keyboard shortcuts, multi-filter
-facts.json           — all fact data + flag descriptions
-country-codes.json   — ISO alpha-2 codes for country flags
-assets/flags/*.svg   — country flag SVG icons (flagicons.lipis.dev)
-Containerfile        — Caddy container
+Or serve directly with any static server:
+```bash
+python3 -m http.server 8080
 ```
 
-## Add facts
+## Data
 
-Edit `facts.json` — each entry needs `countries`, `tags`, `image` (or empty),
-and `fact` (HTML formatting only — no Markdown. Use `<strong>bold</strong>`
-instead of `**bold**`, `<em>italic</em>` instead of `*italic*`, etc.).
+| Category | Count |
+|----------|-------|
+| Flag facts (colors) | 251 |
+| Geo identification facts | 556 |
+| **Total** | **807** |
+| Country flag SVGs | 249 |
+| Fact images | 556 |
+
+Each geo fact includes a **region tag** (`nordics`, `south-southeast-asia`, etc.)
+and one or more **category tags** (`bollards`, `street-sign`, `license-plate`,
+`language`, `google-car`...). Images are stored locally in `assets/fact-images/`.
 
 ## Sources
 
-Facts derived from the video *"The Best Meta for EVERY Country in GeoGuessr"*
-by **Zigzag** ([watch on YouTube](https://www.youtube.com/watch?v=Lnfwp9EGsAo)).
-Tags and categorization inspired by [Geometas](https://geometas.com/).
-Flag icons from [flag-icons](https://flagicons.lipis.dev/) by Lipis.
+- [Geometas](https://geometas.com/) — primary source for geo identification facts
+- [flag-icons](https://flagicons.lipis.dev/) — country flag SVGs by Lipis
